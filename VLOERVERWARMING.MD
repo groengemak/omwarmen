@@ -30,28 +30,6 @@ dwingen er doorheen te reizen.  Als beide wegen open staan zal er weinig
 of niets door de boiler gaan voeren, als die tenminste veel meer weerstand
 tegen de waterstroom biedt.
 
-## Zuinig met douchewarmte
-
-Het is mogelijk om zuinig om te springen met douchewarmte met een
-warmtewisselaar die het (koude) douchewater voorverwarmt met de
-warmte die via het doucheputje wordt afgevoerd.  In de praktijk wint
-zo'n systeem vaak ongeveer 50% warmte terug, vooral de vertikale zijn
-goed.  Douchewater is vervuild met zeep en lichaamstroep, dus kan het
-niet door vloerverwarmingsleidingen worden gevoerd.
-
-Dit ondersteunt langer douchen, en afgezien van het waterverbruik dat
-dat oplevert kan dat bijdragen aan de houdbaarheid van een wat kouder
-huis.  Lekker opwarmen onder de douche, zeg maar.  Geen idee hoe zinvol
-dat effect is.
-
-Een warmtewisselaar die 50% besparing geeft, maakt een half zo grote
-boiler mogelijk.  Anders gezegd, er is maar de helft van de capaciteit
-in de boiler nodig voor hetzelfde douchecomfort.  Onbenutte warmte in
-de boiler kan eventueel worden gebruikt om de vloerverwarming 's avonds
-een beetje extra te geven.  Niet veel, schat ik, maar dit systeem laat
-zich eventueel wel met meer tanks uitbreiden?  Let op dat de
-warmtewisselaar geen verbeteringen teweegbrengt voor de vloerverwarming.
-
 
 ## Beton als warmtereservoir
 
