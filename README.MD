@@ -25,5 +25,5 @@
   * Achtergrondverwarming door zonnewarmte in beton woonvloer te pompen
   * Aanvullende warmte per zone uit infraroodpanelen
   * Ruimschoots zonnecollectoren; boiler voor douchen; restwarmte in beton
-  * Verbetering isolatie onder woonvloer, en van buitenmuur
+  * Verbetering isolatie onder woonvloer, en van buitenmuur; mogelijk trapgat
 
