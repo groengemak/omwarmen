@@ -35,20 +35,20 @@ tegen de waterstroom biedt.
 
 De dimensies van de betonvloer:
 
-  * de vloer is 25 cm dik, en weegt dus rond 625 kg/m2
+  * de vloer is 15 cm dik, en weegt dus rond 375 kg/m2
   * woonkamergroep 20 m2
   * keukengroep 15 m2
   * overloopgroep 5 m2
-  * samen goed voor 10 m3 beton of 25000 kg beton
+  * samen goed voor 10 m3 beton of 15000 kg beton
   * beton heeft een warmtecapaciteit rond 0,85 kJ/kg.K, water is 4,2 kJ/kg.K
-  * al dat beton is dus vergelijkbaar met 5000 kg of 5000 liter water
+  * al dat beton is dus vergelijkbaar met 3000 kg of 3000 liter water
 
 Let op dat we het beton niet (veel) warmer willen maken dan 40 graden Celcius,
 de werktemperatuur van vloerverwarming.  Nemen we een basistemperatuur van
 10 graden aan, en 70 graden uit de zonnecollectoren, dan is dus maar de helft
 van de capaciteit te gebruiken.  Het halve werk is een goed begin!
 
-De capaciteit mag dus nog gehalveerd worden tot 2500 liter water als we willen
+De capaciteit mag dus nog gehalveerd worden tot 1500 liter water als we willen
 rekenen met 70 graden als doeltemperatuur voor een equivalente boiler.  En zo
 komen we op een vergelijkbaar boilervat voor dit warmtereservoir in beton.
 Daar komt dan nog de echte boiler voor douchewater bij.
