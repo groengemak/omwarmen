@@ -130,3 +130,16 @@ heeft staan.  Wat resteert kan in de vloerverwarming worden
 gebruikt, bijvoorbeeld in de voorgaande avond.
 
 
+## Vermijden Warmtepomp
+
+Het is mogelijk dat de hier gedane berekeningen in de praktijk niet
+voldoen, en dat er bijvoorbeeld een warmtepomp bij moet komen.  Het
+is daarbij dan van groot belang dat de boiler heet genoeg wordt op
+eigen kracht, dus zonder warmtepomp.  De gewenste temperatuur voor
+tapwater uit een boiler is namelijk hoger dan die voor verwarming.
+Een warmtepomp presteert aanmerkelijk beter op lagere temperaturen,
+en in combinatie met vloerverwarming met beton als warmtedepot is
+dan meer vrijheid mogelijk.  Een warmtepomp die gemaakt is voor een
+zonneboiler is geen slimme omweg om te bewandelen als het aankomt
+op vloerverwarming.
+

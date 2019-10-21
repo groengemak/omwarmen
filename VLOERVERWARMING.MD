@@ -35,7 +35,7 @@ tegen de waterstroom biedt.
 
 De dimensies van de betonvloer:
 
-  * de vloer is 25 cm dik
+  * de vloer is 25 cm dik, en weegt dus rond 625 kg/m2
   * woonkamergroep 20 m2
   * keukengroep 15 m2
   * overloopgroep 5 m2
@@ -81,6 +81,31 @@ factoren gaan meespelen als tocht en isolatie van de woning.  Dit is
 goed om te weten voor het wooncomfort, maar verder zinloos complicerend
 voor een warmtecapaciteitsberekening.
 
+Dit 
+[principe staat bekend als BKA](http://www.cementenbeton.nl/duurzaam-bouwen/thermische-massa/energiek-beton---brochure)
+in de beton- en cementindustrie: Betonkernactivering.
+Inmiddels heeft men wel onderkend dat het inbouwen van waterleidingen in
+het midden van een pakket beton veel traagheid geeft, dus is men ertoe
+overgegaan het dichter naar plafond of vloer te bewegen.  Vloer is het
+meest geschikt voor verwarming, omdat warmte opstijgt, en plafond is de
+beste plek om te koelen, omdat koude daalt.
+
+Dit artikel vermeldt temperaturen van 25 graden voor verwarming en
+20 graden voor koeling.  Het geeft aan dat verwarming in een vloer
+ongeveer 11 W/m2.K kan overdragen, terwijl koeling in de vloer minder
+efficient verloopt met ongeveer 7 W/m2.K overdacht.  Dit is nog zonder
+de vloerbedekking mee te nemen, uiteraard.  Verder vermeldt het NEN 5128
+als EPC-normering voor woonhuizen die BKA toepassen.
+
+Algemeen onderschrijft dit artikel het idee dat hier wordt geponeerd,
+zowel voor verwarming alsook als systeem voor gebouwkoeling.  De link
+met warmtepompen wordt genoemd als ideaal, omdat het dankzij de grote
+oppervlaktes en trage reactietijden kan werken met kleine sprongen
+in temperatuur -- waarbij warmtepompen optimaal presteren.  Het artikel
+meldt ook dat behoefte kan bestaan aan lokale aanpassingen, en dat is
+precies waarom infraroodpanelen in dit plan zijn opgenomen om lokale
+zones aanpasbaar te maken (tenminste in de richting van verwarming).
+
 
 ## Mengen van zonnewater met retourwater
 
@@ -90,6 +115,29 @@ gegaan, vaak te warm voor vloerverwarming.  Niemand wil op een vloer van
 vloerverwarming terug te mengen in de flow die naar de vloerverwarming
 gaat.  Dit kan vermoedelijk worden gedaan met een eenvoudige mengkraan
 die op een vaste temperatuur is ingeregeld.
+
+
+## Isoleren is Sparen voor Later
+
+Als de temperatuur van de vloer verandert, dan heeft dat een lineaire
+invloed op de afgifte van warmte, zowel naar de ruimte als naar het
+overige beton.  Als het overdag warm is, dan is het dus moeilijk
+om het beton op te warmen voor 's avonds als het afkoelt.  De enige
+parameter die daarbij helpt is de mate van isolatie tussen vloer en
+ruimte.
+
+Zoals houten luiken overdag openstaan en warmte verzamelen, om 's avonds
+dicht te gaan en naar buiten te isoleren terwijl ze naar binnen uitstralen,
+zo zouden we kunnen zoeken naar een veranderlijke vloerconfiguratie, die
+het gemakkelijker maakt om overdag warmte in het beton te stoppen en het
+er 's avonds weer uit te halen.
+
+**TODO/IDEE:** Dat kan onder andere door matten en
+tapijten worden geregeld, vooral met materialen zoals kurk of hout of
+wellicht een folielaag van aluminium.  Een vraag zou kunnen zijn of dit
+effect ook te bereiken is met bijvoorbeeld een vloeistof in de betonlaag?
+Of kan ik een structuur vanonder de bank uitklappen of uitrollen boven de
+vloer?  Of misschien een opblaasbare ballon van aluminiumfolie?
 
 
 ## Overschot aan zonnewarmte
