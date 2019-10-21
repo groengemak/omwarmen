@@ -90,40 +90,35 @@ als het goed geisoleerd is, en maakt stoken 's avonds amper nodig.
 ## Dimensionering collector
 
 Heat pipes en vlakkeplaatcollectoren ontlopen elkaar niet zo erg.
-De opbrengst is ongeveer 1,5 GJ/m2.jaar en daarvan is er in de
+De opbrengst is ongeveer 5 GJ/m2.jaar en daarvan is er in de
 winter ongeveer 4x minder dan in de zomer (wegens de langere weg
 van het zonlicht door de atmosfeer en de kortere dag).
 
-Over het jaar is de opbrengst gemiddeld 4 MJ/m2.dag en op de koudste
+Over het jaar is de opbrengst gemiddeld 14 MJ/m2.dag en op de koudste
 dag dus een kwart van de warmste dag, dus op de koudste dag rekenen
-we met een vijfde van tweemaal deze waarde; dat is 1,6 MJ/m2 op de
+we met een vijfde van tweemaal deze waarde; dat is 5,5 MJ/m2 op de
 koudste dag.
 
 Nemen we een oppervlak aan zonnecollectoren van 8 m2, wat haalbaar
-is op het gegeven dak, dan zitten we op 13 MJ voor die koudste dag.
+is op het gegeven dak, dan zitten we op 44 MJ voor die koudste dag.
 Daarmee moet water van 4 graden Celsius naar 40 graden worden
 verwarmd, met de helft retour via een warmtewisselaar, dus komen
 we op 18 graden te overbruggen temperatuurverschil, voor water met
 4200 J/kg.K.
 
-We hebben hierdoor 174 liter douchewater per dag beschikbaar.  Bij
-6 liter per minuut (met een spaardouchekop) is dat 30 minuten
-douchen.  Dat wil zeggen: 30 minuten energieneutraal douchen.
+We hebben hierdoor 582 liter douchewater per dag beschikbaar.  Bij
+6 liter per minuut (met een spaardouchekop) is dat 97 minuten
+douchen.  Dat wil zeggen: 97 minuten energieneutraal douchen.
 Daarvoorbij moet bijgestookt worden, en hangt het van het verdere
 jaar af of we energieneutraal zijn (wat uiteraard goed mogelijk is).
 
 Let op dat een boiler met een voorraad van 80 liter water op
-70 graden in staat is om veel meer dan 80 liter bij te verwarmen.
+70 graden in staat is om maar uit die 80 liter warmte te leveren.
 Het water is 66 graden warmer dan de instroom, en om 18 graden
 te overbruggen is 18/66 hiervan nodig; totaal 293 liter.  Dat is
 onder dezelfde aannames genoeg voor bijna 49 minuten douchen.  Een
 2x zo groot boilervat levert 2x langer douchen als het op 70 graden
 zit.
-
-Uiteraard geldt dat de warmte moet worden toegevoegd als die is
-onttrokken.  Dus langer douchen dan de beschikbare 30 minuten
-betekent vroeg of laat dat er bijverwarmd moet worden.  Om dat te
-vermijden moet dus meer oppervlakte gebruikt worden.
 
 
 ## Virtuele Boiler

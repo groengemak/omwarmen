@@ -45,7 +45,7 @@ De dimensies van de betonvloer:
 
 Let op dat we het beton niet (veel) warmer willen maken dan 40 graden Celcius,
 de werktemperatuur van vloerverwarming.  Nemen we een basistemperatuur van
-10 graden aan, en 70 graden uit de zonnecellen, dan is dus maar de helft
+10 graden aan, en 70 graden uit de zonnecollectoren, dan is dus maar de helft
 van de capaciteit te gebruiken.  Het halve werk is een goed begin!
 
 De capaciteit mag dus nog gehalveerd worden tot 2500 liter water als we willen
