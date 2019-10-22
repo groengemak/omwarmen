@@ -26,20 +26,20 @@ Alles in graden Celcius, tenzij anders vermeld.
   * Doorstroomsnelheid spaarkop, 6 liter per minuut
   * Terugwinst met een douche-warmtewisselaar, 50%
 
-De warmtevraag voor douchen is daarmee (40-10)*4200*6*50% = 378 kJ/min.
+De warmtevraag voor douchen is daarmee (40-10)x4200x6x50% = 378 kJ/min.
 Bij 30 minuten douchetijd per dag is dat 11 MJ/dag.
 
 
 ## Boiler
 
   * Water gaat tot 70 graden, rond de verdampingstemperatuur van alcohol
-  * Voor douchen volstaat 80 liter, warmtecapaciteit (70-10)*4200*80 = 20 MJ
-  * Vanwege wikkelingen 160 liter, warmtecapaciteit (70-10)*4200*160 = 40 MJ
-  * Vanwege wikkelingen 200 liter, warmtecapaciteit (70-10)*4200*200 = 50 MJ
+  * Voor douchen volstaat 80 liter, warmtecapaciteit (70-10)x4200x80 = 20 MJ
+  * Vanwege wikkelingen 160 liter, warmtecapaciteit (70-10)x4200x160 = 40 MJ
+  * Vanwege wikkelingen 200 liter, warmtecapaciteit (70-10)x4200x200 = 50 MJ
   * Hygieneboilers mogen tot 40 graden dalen, de douchetemperatuur
-  * Warmtecapaciteit van 80 liter op 40 graden, (40-10)*4200*80 = 10 MJ
-  * Warmtecapaciteit van 160 liter op 40 graden, (40-10)*4200*160 = 20 MJ
-  * Warmtecapaciteit van 200 liter op 40 graden, (40-10)*4200*200 = 25 MJ
+  * Warmtecapaciteit van 80 liter op 40 graden, (40-10)x4200x80 = 10 MJ
+  * Warmtecapaciteit van 160 liter op 40 graden, (40-10)x4200x160 = 20 MJ
+  * Warmtecapaciteit van 200 liter op 40 graden, (40-10)x4200x200 = 25 MJ
 
 Zelfs bij 40 graden in een boiler van 80 liter hebben we nog (bijna) de
 aangenomen 30 minuten douchetijd.  Maar er is geen buffer voor het overbruggen
