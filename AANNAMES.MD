@@ -31,15 +31,16 @@ Alles in graden Celcius, tenzij anders vermeld.
 
 ## Boiler
 
-Ik overweeg een hele kleine boiler van 80 liter met gangbare grotere
+Dit ontwerp vergelijkt een kleine boiler van 80 liter met gangbare grotere
 van 160 liter en 200 liter.  Voor douchen op zonnewarmte alleen, de
-hoofdtaak van een boiler in dit ontwerp volstaat 80 liter al.  Grotere
-hebben meer capaciteit maar zijn ook hebben ook meer externe warmte
-nodig om een voldoende hoge temperatuur te bereiken om hun capaciteit
-waar te maken.  Grotere hebben vaak wel meer wikkelingen en ze kunnen
+hoofdtaak van de boiler in dit ontwerp, volstaat 80 liter al.  Grotere
+hebben meer buffercapaciteit maar hebben ook meer zonnewarmte nodig om
+die buffer op voldoende hoge temperatuur te bereiken en hun capaciteit
+uit te nutten.  Grotere hebben vaak wel meer wikkelingen en ze kunnen
 bijvoorbeeld dagwarmte bufferen tot in de avond.
 
   * Water gaat tot 70 graden, rond de verdampingstemperatuur van alcohol
+  * Met heat pipes wordt deze temperatuur het hele jaar door verwacht
   * Bij 080 liter is de warmtecapaciteit (70-10)x4200x080 = 20 MJ
   * Bij 160 liter is de warmtecapaciteit (70-10)x4200x160 = 40 MJ
   * Bij 200 liter is de warmtecapaciteit (70-10)x4200x200 = 50 MJ
