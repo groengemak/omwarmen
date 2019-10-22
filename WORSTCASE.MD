@@ -7,21 +7,21 @@ Verwarmen moet altijd werken, ook op de kortste dag, en ook als dat
 de kortste dag is.  Infraroodpanelen staan paraat, maar in hoeverre
 vermijden we dat met de beoogde opzet?
 
-  * Zonnepanelen: Wekken niet erg veel op, rond 1 kWh.  Ruim minder dan
+  * **Zonnepanelen:** Wekken niet erg veel op, rond 1 kWh.  Ruim minder dan
     we deze dag gaan verbruiken.
 
-  * Douchen: Kost 11 MJ/dag, terwijl 8 m2 zonnecollectoren goed zijn
+  * **Douchen:** Kost 11 MJ/dag, terwijl 8 m2 zonnecollectoren goed zijn
     voor 44 MJ/dag op de koudste dag.  Douchen is dus geen probleem.
     In een boiler van 80 liter past 20 MJ bij 70 graden, en met heat
     pipes is dat ook een te verwachten temperatuur.  Grotere boilers
     zijn voor het douchen overbodig onder deze aannames.
 
-  * Vloerverwarming: Uit 8 m2 zonnecollectoren is op de kortste dag
+  * **Vloerverwarming:** Uit 8 m2 zonnecollectoren is op de kortste dag
     nog 44-11 = 33 MJ/dag over voor ruimteverwarming.  Dat is 12 kWh,
     genoeg om 8 uur lang 30 m2 te verwarmen met 50 W/m2.  We komen dus
     nog best ver met deze aanvulling, zelfs op deze koudere dag.
 
-  * Boilervoorraad: Een boiler van 160 liter kan 40 MJ opslaan, en met
+  * **Boilervoorraad:** Een boiler van 160 liter kan 40 MJ opslaan, en met
     een dagelijkse cyclus zal de temperatuur ook de daarvoor benodigde
     70 graden blijven.  Omdat 44 MJ/dag wordt opgewekt is de boiler in
     een dag te vullen, dus hij mag leeggetrokken worden behoudens de
@@ -33,7 +33,7 @@ vermijden we dat met de beoogde opzet?
       - in 160 liter, 40-11=29 MJ/avond plus 44-40=04 MJ/overdag
       - in 200 liter, 44-11=33 MJ/avond
 
-  * Dagverwarming: Op het moment dat de zon schijnt dienen we een deel
+  * **Dagverwarming:** Op het moment dat de zon schijnt dienen we een deel
     van de warmte te verstoken.  Dat kan al meteen na de laatste
     douchebeurt in de ochtend, als de verwachtingen op zon goed zijn.
     Zo kan al vroeg in de dag begonnen worden met betonverwarming.
@@ -46,7 +46,7 @@ vermijden we dat met de beoogde opzet?
       - bij 080 liter, 22/0.0036/30/50 = 4 uur/overdag
       - bij 160 liter, 29/0.0036/30/50 = 5 uur/overdag
 
-  * Avondverwarming: Warmte opslaan in beton is prima, maar het is wel
+  * **Avondverwarming:** Warmte opslaan in beton is prima, maar het is wel
     aantrekkelijker om tegen de avond te verwarmen en niet midden
     overdag.  Als we een woonoppervlak van 30 m2 willen verwarmen met
     50 W/m2 dan kunnen we dat uitsmeren over het volgende aantal uren:
@@ -75,11 +75,13 @@ vermijden we dat met de beoogde opzet?
     **TODO:** Toetsen of 50 W/m2 realistisch is.  Het lijkt erop dat dit
     voor beton al best veel afgifte van warmte is.
 
-  * Stel het is rond het vriespunt.  Dan moet 20 graden worden toegevoegd
+  * **Vriespunt:**
+    Stel het is rond het vriespunt.  Dan moet 20 graden worden toegevoegd
     aan warmte.  Infraroodwarmte kost daarvoor TODO en heeft een vermogen
     nodig van TODO.  Isolatie levert TODO op.
 
-  * Stel het vriest 10 graden.  Dan moet 30 graden worden toegevoegd aan
+  * **Vorst:**
+    Stel het vriest 10 graden.  Dan moet 30 graden worden toegevoegd aan
     warmte.  Infraroodwarmte kost daarvoor TODO en heeft een vermogen
     nodig van TODO.  Isolatie levert TODO op.
 
