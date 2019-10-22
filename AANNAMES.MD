@@ -31,14 +31,22 @@ Alles in graden Celcius, tenzij anders vermeld.
 
 ## Boiler
 
+Ik overweeg een hele kleine boiler van 80 liter met gangbare grotere
+van 160 liter en 200 liter.  Voor douchen op zonnewarmte alleen, de
+hoofdtaak van een boiler in dit ontwerp volstaat 80 liter al.  Grotere
+hebben meer capaciteit maar zijn ook hebben ook meer externe warmte
+nodig om een voldoende hoge temperatuur te bereiken om hun capaciteit
+waar te maken.  Grotere hebben vaak wel meer wikkelingen en ze kunnen
+bijvoorbeeld dagwarmte bufferen tot in de avond.
+
   * Water gaat tot 70 graden, rond de verdampingstemperatuur van alcohol
-  * Voor douchen volstaat 80 liter, warmtecapaciteit (70-10)x4200x80 = 20 MJ
-  * Vanwege wikkelingen 160 liter, warmtecapaciteit (70-10)x4200x160 = 40 MJ
-  * Vanwege wikkelingen 200 liter, warmtecapaciteit (70-10)x4200x200 = 50 MJ
-  * Hygieneboilers mogen tot 40 graden dalen, de douchetemperatuur
-  * Warmtecapaciteit van 80 liter op 40 graden, (40-10)x4200x80 = 10 MJ
-  * Warmtecapaciteit van 160 liter op 40 graden, (40-10)x4200x160 = 20 MJ
-  * Warmtecapaciteit van 200 liter op 40 graden, (40-10)x4200x200 = 25 MJ
+  * Bij 080 liter is de warmtecapaciteit (70-10)x4200x080 = 20 MJ
+  * Bij 160 liter is de warmtecapaciteit (70-10)x4200x160 = 40 MJ
+  * Bij 200 liter is de warmtecapaciteit (70-10)x4200x200 = 50 MJ
+  * Hygieneboilers kunnen veilig tot 40 graden dalen, de douchetemperatuur
+  * Bij 080 liter op 40 graden daalt de warmtecapaciteit tot (40-10)x4200x080 = 10 MJ
+  * Bij 160 liter op 40 graden daalt de warmtecapaciteit tot (40-10)x4200x160 = 20 MJ
+  * Bij 200 liter op 40 graden daalt de warmtecapaciteit tot (40-10)x4200x200 = 25 MJ
 
 Zelfs bij 40 graden in een boiler van 80 liter hebben we nog (bijna) de
 aangenomen 30 minuten douchetijd.  Maar er is geen buffer voor het overbruggen
