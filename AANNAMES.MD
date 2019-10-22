@@ -51,7 +51,7 @@ bijvoorbeeld dagwarmte bufferen tot in de avond.
 
 Zelfs bij 40 graden in een boiler van 80 liter hebben we nog (bijna) de
 aangenomen 30 minuten douchetijd.  Maar er is geen buffer voor het overbruggen
-van bewolkte dagen.
+van donkere dagen.
 
 
 ## Zonnecollectoren

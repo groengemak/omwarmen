@@ -7,6 +7,13 @@ Verwarmen moet altijd werken, ook op de kortste dag, en ook als dat
 de kortste dag is.  Infraroodpanelen staan paraat, maar in hoeverre
 vermijden we dat met de beoogde opzet?
 
+
+## Kortste dag
+
+Op de kortste dag hebben we ongeveer 1/4 van de lichtinval van de
+langste dag: half zo lang, en half zo veel door de langere weg door
+de atmosfeer.
+
   * **Zonnepanelen:** Wekken niet erg veel op, rond 1 kWh.  Ruim minder dan
     we deze dag gaan verbruiken.
 
@@ -74,6 +81,30 @@ vermijden we dat met de beoogde opzet?
 
     **TODO:** Toetsen of 50 W/m2 realistisch is.  Het lijkt erop dat dit
     voor beton al best veel afgifte van warmte is.
+
+
+## Donkere dag
+
+De analyse voor de kortste dag gaat er van uit dat het op die dag vrij
+licht is.  In het algemeen levert een donkere dag ook problemen, want
+dan is er (nog) minder licht.  Dit geldt bijvoorbeeld bij zware
+bewolking, zoals die optreedt bij sneeuw of onweer.
+
+Het is lastig hier getallen aan te hangen.  De condities lossen meestal
+op als de neerslag en/of ontlading optreden, en houden normaal niet hele
+dagen aan.
+
+De algemene teneur is om het beton van de woning warm genoeg te hebben
+om het huis niet te koud te maken in zo'n tijd.  Het zal echter vrijwel
+altijd nodig zijn bij te stoken.  In precies deze situaties zijn
+infraroodpanelen een perfecte aanvulling, met zones waar het behaaglijk
+moet zijn en de gebruikelijke voordelen van ready-to-go verwarming.
+
+We zullen dus niet verder kijken naar donkere dagen, maar gewoon ervan
+uit gaan dat dit met infraroodpanelen wordt ondervangen.
+
+
+## Koudste dag
 
   * **Vriespunt:**
     Stel het is rond het vriespunt.  Dan moet 20 graden worden toegevoegd
