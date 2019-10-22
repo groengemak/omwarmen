@@ -25,9 +25,8 @@ Alles in graden Celcius, tenzij anders vermeld.
   * Water op 40 graden, iets boven lichaamstemperatuur
   * Doorstroomsnelheid spaarkop, 6 liter per minuut
   * Terugwinst met een douche-warmtewisselaar, 50%
-
-De warmtevraag voor douchen is daarmee (40-10)x4200x6x50% = 378 kJ/min.
-Bij 30 minuten douchetijd per dag is dat 11 MJ/dag.
+  * Douchen kost (40-10)x4200x6x50% = 378 kJ/min
+  * Bij 30 minuten douchetijd per dag is dat 11 MJ/dag
 
 
 ## Boiler
@@ -52,7 +51,7 @@ van bewolkte dagen.
   * Ruimte voor 8 m2
   * Opbrengst dus 40 GJ/y
   * Gemiddelde levert dit dus 110 MJ/dag
-  * Verloop over het jaar is symmetrisch, ongeveer een cosinusvorm
+  * Verloop over het jaar is ongeveer symmetrisch, ongeveer een cosinusvorm
   * Winterdagen leveren 1/4 van het licht van een zomerdag
   * Op de korstste dagen krijg je dus 1/5 van 2x gemiddeld, dus 44 MJ/dag
   * Op de langste dagen krijg je dus 4/5 van 2x gemiddeld, dus 175 MJ/dag

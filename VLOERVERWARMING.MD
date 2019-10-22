@@ -106,6 +106,12 @@ meldt ook dat behoefte kan bestaan aan lokale aanpassingen, en dat is
 precies waarom infraroodpanelen in dit plan zijn opgenomen om lokale
 zones aanpasbaar te maken (tenminste in de richting van verwarming).
 
+**TODO:** Mogelijke correctie: een watertemperatuur van 40 graden voert
+tot een betontemperatuur van 27 graden.  Bij koeling voert water van
+13 graden tot een betontemperatuur van 17 graden.  Bron: blz 28 van
+onderstaand magazine over cement & beton.  Dit beinvloedt dan wel de
+warmtecapaciteit van het beton.
+
 
 ## Mengen van zonnewater met retourwater
 
