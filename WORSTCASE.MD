@@ -24,8 +24,8 @@ de atmosfeer.
     zijn voor het douchen overbodig onder deze aannames.
 
   * **Vloerverwarming:** Uit 8 m2 zonnecollectoren is op de kortste dag
-    nog 44-11 = 33 MJ/dag over voor ruimteverwarming.  Dat is 12 kWh,
-    genoeg om 8 uur lang 30 m2 te verwarmen met 50 W/m2.  We komen dus
+    nog 44-11 = 33 MJ/dag over voor ruimteverwarming.  Dat is 9 kWh,
+    genoeg om 6 uur lang 30 m2 te verwarmen met 50 W/m2.  We komen dus
     nog best ver met deze aanvulling, zelfs op deze koudere dag.
 
   * **Boilervoorraad:** Een boiler van 160 liter kan 40 MJ opslaan, en met
@@ -51,7 +51,8 @@ de atmosfeer.
     volgende aantal verwarmingsuren:
 
       - bij 080 liter, 22/0.0036/30/50 = 4 uur/overdag
-      - bij 160 liter, 29/0.0036/30/50 = 5 uur/overdag
+      - bij 160 liter, 04/0.0036/30/50 = 1 uur/overdag
+      - bij alle boilers: meer uren overdag ten koste van avonduren
 
   * **Avondverwarming:** Warmte opslaan in beton is prima, maar het is wel
     aantrekkelijker om tegen de avond te verwarmen en niet midden
