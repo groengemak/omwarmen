@@ -28,17 +28,23 @@ de atmosfeer.
     genoeg om 6 uur lang 30 m2 te verwarmen met 50 W/m2.  We komen dus
     nog enigszins op gang met deze aanvulling, zelfs op deze koudere dag.
 
-    Toch is het niet heel veel.  Uitgaande van 11 MJ/dag.m2 als maximum,
-    ofwel 3 kWh/dag.m2, kunnen we dus maar 3 m2.h aan warmte leveren en
-    moet de rest worden bijgestookt met infraroodpanelen.  Want het is
+    Toch is het niet heel veel.  Uitgaande van 11 MJ/dag.m2 op de kortste
+    dag, ofwel 3 kWh/dag.m2, kunnen we dus maar 3 m2 verwarmen en moet
+    de rest worden bijgestookt met infraroodpanelen.  Het is immers
     weinig aantrekkelijk om vrieskou in de WC of douche uit te zitten!
+    In de praktijk zal het meest zinnige doel van vloerverwarming zijn
+    om de vorst tegen te gaan, mocht die binnen proberen te komen, maar
+    niet om een behaagelijk klimaat te creeeren.  De beschikbare energie
+    van 33 MJ/dag is slechts 12% van de gewenste 11x25 = 275 MJ/dag voor
+    alleen de woonkamer van 25 m2.
 
     De conclusie moet dus zijn dat vloerverwarming amper iets bijdraagt
-    in de koudste tijd van het jaar, en dat infraroodverwarming al het
-    werkt moet overnemen.  Dat kan, over het jaar bezien, nog altijd
+    in de koudste tijd van het jaar, en dat infraroodverwarming dan al
+    het werkt moet overnemen.  Dat kan, over het jaar bezien, nog altijd
     energieneutraal zijn, maar binnen de scope van losse dagen dus niet.
-    Dit zie je wel vaker; we hebben netwerken nodig als buffer voor de
-    slingeringen en dat is een dankbare nieuwe rol voor netwerkbeheerders.
+    Dit zie je wel vaker; we hebben energienetwerken nodig als buffer voor
+    de slingeringen en dat is een dankbare nieuwe rol voor netwerkbeheerders,
+    want het is te complex voor individuele huishoudens.
 
   * **Boilervoorraad:** Een boiler van 160 liter kan 40 MJ opslaan, en met
     een dagelijkse cyclus zal de temperatuur ook de daarvoor benodigde
