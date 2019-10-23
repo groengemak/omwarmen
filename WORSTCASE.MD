@@ -26,7 +26,19 @@ de atmosfeer.
   * **Vloerverwarming:** Uit 8 m2 zonnecollectoren is op de kortste dag
     nog 44-11 = 33 MJ/dag over voor ruimteverwarming.  Dat is 9 kWh,
     genoeg om 6 uur lang 30 m2 te verwarmen met 50 W/m2.  We komen dus
-    nog best ver met deze aanvulling, zelfs op deze koudere dag.
+    nog enigszins op gang met deze aanvulling, zelfs op deze koudere dag.
+
+    Toch is het niet heel veel.  Uitgaande van 11 MJ/dag.m2 als maximum,
+    ofwel 3 kWh/dag.m2, kunnen we dus maar 3 m2.h aan warmte leveren en
+    moet de rest worden bijgestookt met infraroodpanelen.  Want het is
+    weinig aantrekkelijk om vrieskou in de WC of douche uit te zitten!
+
+    De conclusie moet dus zijn dat vloerverwarming amper iets bijdraagt
+    in de koudste tijd van het jaar, en dat infraroodverwarming al het
+    werkt moet overnemen.  Dat kan, over het jaar bezien, nog altijd
+    energieneutraal zijn, maar binnen de scope van losse dagen dus niet.
+    Dit zie je wel vaker; we hebben netwerken nodig als buffer voor de
+    slingeringen en dat is een dankbare nieuwe rol voor netwerkbeheerders.
 
   * **Boilervoorraad:** Een boiler van 160 liter kan 40 MJ opslaan, en met
     een dagelijkse cyclus zal de temperatuur ook de daarvoor benodigde

@@ -75,5 +75,14 @@ de laatste voor een grotere.
 
 ## Vloerverwarming
 
-  * Temperatuur 40 graden
-  * Capaciteit per dag per groep???
+De volgende gegevens zijn te danken aan mijn vader, die jarenlang het
+gasverbruik heeft bijgehouden, zodat het vergelijkbaar is.
+
+  * Meetwoning met 40 m2 woonkamer, begane grond op kruipruimte
+  * Ook raakvlakken naar buiten lijken vergelijkbaar
+  * Gasverbruik in hartje winter 84 m3/week meer dan in hartje zomer
+  * Stoken gebeurt via een CV-ketel; ook slaapkamers liften soms mee
+  * Koken en tapwater zijn verwijderd uit dit getal; het is puur warmte
+  * 84 m3/week is [omgerekend](https://hypertextbook.com/facts/2002/JanyTran.shtml) 84x37 = 3108 MJ/week, of 444 MJ/dag
+  * 444 MJ/dag voor 40 m2 komt neer op 11 MJ/dag.m2 of 3 kWh/dag.m2
+
