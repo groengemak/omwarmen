@@ -91,4 +91,30 @@ beinvloeden.  In het ideale geval kan een thermostaat worden bijgesteld
 aan de hand van dit soort gegevens (en kan de mens dat weer bijstellen en
 kan dit worden opgepikt als dat niet uitkomt).
 
+## Berekeningen
 
+Als voor vloerverwarming 3 kWh/dag.m2 nodig is, dan kunnen we stellen
+dat we 125 W/m2 moeten aanhouden.  Gangbare adviezen zitten rond
+35 W/m3 waarbij een hoogte van 2.8 m wordt aangenomen, dus dat komt
+neer op 100 W/m2.  In die richting dus.  Uiteindelijk hangt het vooral
+af van de mate van isolatie.
+
+Een paneel van 700 W bestrijkt dus hooguit 7 m2, een paneel van 300 W
+bestrijkt 3 m2, enzovoort.  Een ruimte kan maarzo met minder dan het
+totale vloeroppervlak zijn uitgerust.  De vraag die dan rijst is wat
+er gebeurt met de temperatuurgradient in die tijd; zijn de zones
+werkelijk warmer dan de andere gebieden, en wanneer zijn die andere
+gebieden tenminste vrij van vorst?
+
+We kijken bij [ThuisBaas](https://www.thuisbaas.nl/faq-infraroodverwarming/)
+dat door Urgenda is opgestart.  Zij geven aan:
+
+  * Een ruimte van 25 m2 moet worden verwarmd als 25 m2
+  * Een dubbelglasraam van 3x2 m2 met correctiefactor 1,8 telt 9 m2 bij
+  * Een binnendeur voegt 2 m2 toe
+  * Totaal te verwarmen equivalent van 36 m2
+  * Dat kan met ongeveer 1600 W, bijvoorbeeld 700+500+500
+
+Dit zal vermoedelijk niet op zones ingericht zijn, anders werden ramen
+en deuren anders besproken.  Het idee is hier dus een egale en aangename
+warmte door het hele huis.  De vraag is (nog altijd) of dat nodig is.

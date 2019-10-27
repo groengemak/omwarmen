@@ -86,3 +86,15 @@ gasverbruik heeft bijgehouden, zodat het vergelijkbaar is.
   * 84 m3/week is [omgerekend](https://hypertextbook.com/facts/2002/JanyTran.shtml) 84x37 = 3108 MJ/week, of 444 MJ/dag
   * 444 MJ/dag voor 40 m2 komt neer op 11 MJ/dag.m2 of 3 kWh/dag.m2
 
+Rond de equinox in datzelfde jaar waren de meetgegevens als volgt:
+
+  * 7 m3/dag in de lente, 2 m3 in de herfst
+  * Dat is 7x37 = 259 MJ/dag in de lente, 2x37 = 72 MJ/dag in de herfst
+  * Voor deze 40 m2 rekenen we met (259+72)/2/40 = 4 MJ/dag.m2 of 1 kWh/dag.m2
+
+Relativering van deze gasverbruiksgegevens:
+
+  * Dit komt neer op vermogens van 125 W/m2 gedurende 24 h/dag, en kan voortkomen uit de indirecte aard van verwarming via een CV-ketel die het hele huis bedient en ook heet genoeg moet stoken voor douchewater
+  * Infraroodpanelen worden aangeraden rond 35 W/m3 of 88 W/m2, maar dat zijn leveranciers die belang hebben bij verkoop van hoge vermogens zonder dat de klant dit ooit waarneemt
+  * Urgenda dimensioneert infraroodpanelen rond 50 W/m2 (met bijtellen voor deuren en ramen) en dat zou met deze techniek een piekbelasting zijn
+

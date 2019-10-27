@@ -46,6 +46,14 @@ de atmosfeer.
     de slingeringen en dat is een dankbare nieuwe rol voor netwerkbeheerders,
     want het is te complex voor individuele huishoudens.
 
+    Ter verzachting: Naast de 8 m2 zonnecollectoren is er ook 6 m2 raam
+    op het zuiden, dat vrijwel haaks op het winterzonnetje staat als die
+    op het hoogste punt zit.  Op zonnige dagen zal ook meeverwarmen,
+    maar een raam doet minder op donkere of bewolkte (diffuus verlichte)
+    dagen dan heat pipes.  Als het werkt, kan het een extra portie van
+    44*6/8 = 33 MJ worden verwacht, dus een verdubbeling van de
+    beschikbare warmte (alleen minder flexibel inzetbaar).
+
   * **Boilervoorraad:** Een boiler van 160 liter kan 40 MJ opslaan, en met
     een dagelijkse cyclus zal de temperatuur ook de daarvoor benodigde
     70 graden blijven.  Omdat 44 MJ/dag wordt opgewekt is de boiler in
