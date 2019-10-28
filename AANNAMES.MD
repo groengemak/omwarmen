@@ -7,6 +7,10 @@
 
   * Warmtecapaciteit water, algemeen, 4200 J/kg.K
   * [Warmtecapaciteit beton](https://www.betonlexicon.nl/W/Warmtecapaciteit/), 850 J/kg.K
+  * [Warmtegeleiding beton](http://www.joostdevree.nl/shtmls/warmtegeleidingscoefficient.shtml), niet verdicht, 1.4 W/m.K
+  * [Warmtegeleiding gewapend beton](http://www.joostdevree.nl/shtmls/warmtegeleidingscoefficient.shtml), max 2.0 W/m.K
+  * [Warmtegeleiding linoleum](http://www.joostdevree.nl/shtmls/warmtegeleidingscoefficient.shtml), 0.17 W/m.K
+  * [Warmtegeleiding kurk](http://www.joostdevree.nl/shtmls/warmtegeleidingscoefficient.shtml), 0.04 W/m.K
   * Soortelijk gewicht water, algemeen, 1000 kg/m3
   * [Soortelijk gewicht verdicht gewapend beton](http://www.soortelijkgewicht.com/vaste-stoffen/beton), 2500 kg/m3
 

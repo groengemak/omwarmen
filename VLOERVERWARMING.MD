@@ -113,6 +113,52 @@ onderstaand magazine over cement & beton.  Dit beinvloedt dan wel de
 warmtecapaciteit van het beton.
 
 
+## Lekkage van Betonwarmte
+
+Een betonvloer is altijd gewapend, omdat beton alleen amper trekkrachten
+aankan.  Als dat de gangbare (onduurzame) bewapening is met metaal, dan
+is dat een warmtegeleider.  Vloeren die doorlopen naar buren zijn daarmee
+een lekkanaal voor warmte.  Idealiter nemen de buren dus het systeem ook
+op in hun woning!  Bij BKA wordt vaak een heel gebouw op deze manier
+uitgevoerd en speelt dit minder dan in een woonhuis.
+
+In een woonhuis moeten we ons afvragen hoe de betonwarmte wordt verdeeld
+over de te verwarmen ruimtes en eventuele lekkages naar aangrenzende
+woonhuizen.  We bepalen daarom voor beide de afvoersnelheid in W/K en
+berekenen het verloren percentage, waarbij de temperatuur er niet toe
+doet.
+
+Stel je voor dat je een meter van de randen blijft, met een warmteweerstand
+van gewapend beton van 2.0 W/m.K en een dikte van 15 cm, dan is horizontaal
+per meter breedte het oppervlakte 0.15 m2 en de afstand 1 m, dus de
+warmteoverdracht per graad en per meter breedte is 2.0x0.15/1 = 0.3 W/m.K
+(dimensie gelijk aan die van de soortelijke warmteweerstand, maar het gaat
+hier over meters breedte).  Met een rand van 2x11 = 22m naar de buren is
+het totale verlies per graad dan 0.3x22 = 6.6 W/K.  Als ook de buren
+warmte in de betonvloer jagen dan neemt dit uiteraard af.
+
+Tegelijk wordt een oppervlakte warm.  Gaan we uit van 40 m2 met isolatie
+aan de onderzijde en 5 mm linoleum (0.17 W/m.K) of 3 mm kurk (0.04 W/m.K)
+als vloerbedekking, dan vinden we respectievelijk 0.17x40/0.005 = 1360 W/K
+en 0.04x40/0.003 = 533 W/K als overdracht per graad.
+
+We verliezen dus, ongeacht de betontemperatuur,
+6.6/1360 = 0.5% bij linoleum en
+6.6/533 = 1.2% bij kurk.  Beide lijken acceptabel, en op de koudste
+dag waarop het budget voor vloerverwarming 33 MJ is houden we daarvan na
+verrekening van lekkage naar buren
+33x(100%-0.5%) = 32.8 MJ over met linoleum en houden we
+33x(100%-1.2%) = 32.6 MJ over met kurk.  Beide zitten in de marge van
+de afronding en we kunnen dus blijven rekenen met 33 MJ.
+
+De warmteweerstand van de vloerbedekking vertraagt de afgifte van warmte
+uit het beton, maar afgezien van bovenstaande marginale lekken heeft het
+geen verliezen tot gevolg.  Net als bij een elektrische weerstand die een
+condensator oplaadt en uiteindelijk de ingangsspanning bereikt, zal ook de
+betontemperatuur uiteindelijk doordringen via de vloerbedekking, ongeacht
+de hoogte van de warmteweerstand.
+
+
 ## Mengen van zonnewater met retourwater
 
 De warmte van de zonnecollectoren is, ook als die door het boilervat is
