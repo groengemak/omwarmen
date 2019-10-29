@@ -13,6 +13,8 @@
   * [Warmtegeleiding kurk](http://www.joostdevree.nl/shtmls/warmtegeleidingscoefficient.shtml), 0.04 W/m.K
   * Soortelijk gewicht water, algemeen, 1000 kg/m3
   * [Soortelijk gewicht verdicht gewapend beton](http://www.soortelijkgewicht.com/vaste-stoffen/beton), 2500 kg/m3
+  * [Soortelijk gewicht kurk](http://www.heatweb.com/techtips/useful.html), in de variant vloerbedekking, 200 kg/m3
+  * [Soortelijk gewicht linoleum](http://www.heatweb.com/techtips/useful.html), 1200 kg/m3
 
 ## Watertemperaturen
 
