@@ -118,3 +118,119 @@ dat door Urgenda is opgestart.  Zij geven aan:
 Dit zal vermoedelijk niet op zones ingericht zijn, anders werden ramen
 en deuren anders besproken.  Het idee is hier dus een egale en aangename
 warmte door het hele huis.  De vraag is (nog altijd) of dat nodig is.
+
+## Waarnemingen: Gevoelsmatig
+
+In de winter van 2020/2021 was ik elke dag en avond thuis wegens lock-downs.
+Dat jaar heb ik het verwarmen van mijn woonverdieping uitgeprobeerd
+met louter infraroodpanelen.  De radiatorverwarming was geinstalleerd,
+maar heb ik niet gebruikt.
+
+Ik heb gemerkt dat mensen angstig zijn als het om warmte gaat en
+liever niet ingrijpen in iets dat werkt.  Toch was dit geen experiment.
+De insteek was dat een nieuw paneel snel bij te bestellen is als het
+nodig mocht zijn, en dat als ze het niet zouden trekken dat de
+temperatuur dan niet opeens extreem koud is, maar wat onaangenamer.
+In Nederland wordt het buiten nooit levensbedreigend koud, dus zal dat
+binnen ook nooit zo zijn.
+
+De praktijk was inderdaad **bijzonder aangenaam**.  Het verbaasde me dat
+het ondanks de losse plekken voelde als centrale verwarming, en wel
+veel meer dan met een stel radiatoren.  Het verschil tussen ruimtes
+met anders ingestelde temperaturen was voelbaar, maar binnen een
+ruimte waren de verschillen niet groot.  Dit komt uiteraard doordat
+de panelen in milde omstandigheden ook maar matig opwarmen, zoals
+tot 40 ˚C.  Die warmte verdeelt zich maar de doorvoorsnelheid is
+minder.
+
+Naarmate het buiten afkoelt wordt meer warmte onttrokken aan de
+woning en wordt het wat kouder richting de buitenkanten (niet naar
+buren die ook stoken tot kamertemperatuur) en de panelen zelf worden
+warmer.  Als je dan langs een paneel loopt voel je de aangemane
+**warmte als van een vuur of zonnestraling**.  Dan neemt ook
+het gevoel van centrale verwarming af.  Overigens is dat vergelijkbaar
+met een radiator, die ook warmer wordt gestookt als het kouder wordt,
+en dan voelt het daar vlakbij ook warmer.
+
+Men zegt vaak dat je een **lagere kamertemperatuur** instelt als je
+infraroodpanelen neemt.  Dat lijkt te kloppen, en wel als je dicht
+bij een paneel zit.  Je zou een radiator ook omlaag regelen als je
+daar vlakbij zit, alleen is dat niet altijd de praktijk.
+
+Het idee van het **verwarmen van het gebouw** in plaats van de lucht
+erin werkt ook in de praktijk.  Met name 's ochtends was maar een paar
+graad van de temperatuur gedaald, terwijl het met radiatoren ronduit
+kil kon zijn bij het opstaan.  De panelen overwinnen de paar graden
+temperatuurverschil in ongeveer een uur en daarna wordt het kalmpjes
+bijgehouden.  Dit versterkt ook het geloof dat het gebruik van
+zonnecollectoren met de betonvloer als warmteopslag goed zal uitpakken.
+Met name in ruimtes op het noorden, die minder zon opvangen.
+
+## Waarnemingen: Thermostaten
+
+Een infraroodpaneel heeft een thermostaat nodig.  Ik heb bij elk
+paneel een eigen thermostaat geplaatst, zodat ik kan controleren waar
+de warmte terechtkomt: bank, stoel, tafel, overloop, ...
+
+Het idee van **verwarming per zone werkt**, ook binnen een ruimte.
+Wel is het zo dat een hoger afgestelde thermostaat warmte af zal staan
+aan een koeler deel als de warmte daar gemakkelijk heenstroomt, en
+daarmee de hele ruimte kan overnemen.  Dat is ook logisch, en betekent
+dat elke thermostaat een ondergrens aangeeft, en dat een thermostaat
+per zone handig kan zijn als je wilt variëren, en overbodig als je
+dat niet wilt.  Bijvoorbeeld in een gezin is deze controle minder
+zinvol, doordat meer mensen ook meer in beweging zijn, dan in een
+eenpersoonshuishouden.
+
+Het doel van de thermostaat is het infraroodpaneel op die temperatuur
+te brengen dat het warmte uitstraalt die compenseert voor lekkage
+die volgt uit temperatuurverschillen naar de omgeving, en de weerstand
+die de stroomsnelheid van de warmte naar die omgeving regelt.  Het
+is een aardig lineair systeem en dus **heel voorspelbaar door te rekenen**.
+Het enige wat nodig is zijn een paar metingen van de gebruikte energie
+over een periode en de bijbehorende gemiddelde binnen- en buitentemperatuur.
+Daarin zitten meetvariaties, dus meer metingen geven meer informatie.  Ook
+wordt **het nut van isolatie inzichtelijk** gemaakt door zulke berekeningen,
+want je kunt oude en nieuwe situaties in elkaar omrekenen en vergelijken.
+
+Lineariteit maakt het mogelijk om te berekenen hoeveel je verbruikt bij
+bepaalde temperaturen, maar daarbij speelt ook mee of ze volop moeten
+draaien, en dus voldoende mee kan **doorstoten naar lagere temperaturen**.
+Op dat punt ben ik volstrekt gerustgesteld, want de panelen zijn grote
+periodes uitgeschakeld.  In de keuken op het noorden branden ze nog
+het meest, maar ook daar trekt het vriesnachten wel.  De enige tijden
+waarop het koud is zijn dezelfde als met radiotoren, namelijk als het
+regent/waait.  Dat is blijkbaar een tijd waarin veel warmte afgevoerd
+wordt.  Het is minder erg met infraroodpanelen, maar de conclusie
+blijft dat het zinvol is om ook beter te isoleren; in die richting is
+nog wel wat rek over.
+
+Niet alle thermostaten werken even goed.  Ik heb het niet over onhandige
+problemen met batterijtjes in draadloze aansturing, ik heb dat vermeden
+door bedrading, maar die keuze kan iedereen zelf maken.  Ik heb het over
+het verschil tussen mechanische en elektronische thermostaten.  Met name
+**infraroodgevoelige thermostaten** werken heel goed.  Ik had een model
+dat totaal geen hysteris heeft, dus dat inschakelde zodra een enkele
+meting onder het doel zat en uitschakelde zodra het erboven zat.  Dit
+begint met een langere inschakeling, dan ziet hij een lichte overhoot en
+schakelt uit, even later weer in, het gaat een tijdje heen en weer tot
+het ten slotte tot rust komt en af en toe maar even inschakelt.  Dit is
+de meest precieze manier om de temperatuur van het paneel af te stemmen
+op de vraag naar infraroodstraling.  In vergelijking hebben **mechanische
+thermostaten** een veel grotere hysterises, en dat maakt de temperatuur
+van de panelen periodiek te warm en te groot; dit is precies hoe je een
+hysteresis in een thermostaat bouwt, door bij een lagere temepatuur in
+te schakelen dan die waarbij je uitschakelt.
+
+De vermogens van een infraroodpaneel zijn hoog, en **schakelen met relais**
+is welhaast nodig.  De meeste thermostaten zijn gemaakt om een pomp aan
+en uit te schakelen, of een klep te openen en te sluiten, dus veel lagere
+vermogens.  Dat sluit niet goed aan.  Als een thermostaat het vermogen
+aankan dan nog kan het gebeuren dat het sneller slijt dan anders.  Vonken
+zijn niet te verwachten, want een paneel is een pure weerstandsbelasting.
+Maar algemeen is het een goed idee om te werken met **solid state relais**
+die aangestuurd worden met een signaal uit de thermostaat; dit kan triviaal
+met mechanische en vraagt handigheid met elektronica voor een elektronische.
+
+
+
