@@ -45,36 +45,36 @@ De dimensies van de betonvloer:
 
 (Bovenstaand is MarkDown met handmatige berekening, onderstaand is CalcDown met inline berekeningen)
 
-  * de vloer is ?[%d]( = vloerdikte 15cm) dik,
-    en weegt dus rond ?[%d]( * vloerdikte sg_beton)
-  * woonkamergroep ?[%d]( = opp_woonkamer 20m2)
-  * keukengroep ?[%d]( = opp_keuken 15m2)
-  * overloopgroep ?[%d]( = opp_overloop 5m2)
-  * samen goed voor ?[%d beton]( = vol_beton * vloerdikte +:3 opp_woonkamer opp_keuken opp_overloop)
-    of ?[%d beton]( * sg_beton vol_beton)
-  * beton heeft een warmtecapaciteit rond ?[%d]( heatcap_beton),
-    water is ?[%d]( heatcap_water)
-  * al dat beton is dus vergelijkbaar met ?[%d][ = wgt_betonalswater / *:3 vol_beton sg_beton heatcap_beton heatcap_water]
-    of ?[%d][vol_betonalswater] water
+  * de vloer is ?[%d]( = vloerdikte 15cm ) dik,
+    en weegt dus rond ?[%d]( * vloerdikte sg_beton )
+  * woonkamergroep ?[%d]( = opp_woonkamer 20m2 )
+  * keukengroep ?[%d]( = opp_keuken 15m2 )
+  * overloopgroep ?[%d]( = opp_overloop 5m2 )
+  * samen goed voor ?[%d beton]( = vol_beton * vloerdikte +:3 opp_woonkamer opp_keuken opp_overloop )
+    of ?[%d beton]( * sg_beton vol_beton )
+  * beton heeft een warmtecapaciteit rond ?[%d]( heatcap_beton ),
+    water is ?[%d]( heatcap_water )
+  * al dat beton is dus vergelijkbaar met ?[%d]( = wgt_betonalswater / *:3 vol_beton sg_beton heatcap_beton heatcap_water )
+    of ?[%d]( vol_betonalswater ) water
 
 (Bovenstaand inline CalcDown, onderstaand worden def_lists gereferenced, en ook maar meteen gebruikt als freevarnamen, twee nieuwe ideeën die de notatie flink opschonen.)
 
   * de vloer is ?[vloerdikte] dik, en weegt dus rond ?[oppwgt_beton]
-    ![vloerdikte]:[ 15cm]
-    ![oppwgt_beton]:[ * vloerdikte sg_beton]
+    [vloerdikte]:( 15cm )
+    [oppwgt_beton]:( * vloerdikte sg_beton )
   * woonkamergroep ?[opp_woonkamer]
   * keukengroep ?[opp_keuken]
   * overloopgroep ?[opp_overloop]
-    ![opp_woonkamer]:[ 20m2]
-    ![opp_keuken]:[ 15ms]
-    ![opp_overloop]:[ 5m2]
+    [opp_woonkamer]:( 20m2 )
+    [opp_keuken]:( 15m2 )
+    [opp_overloop]:( 5m2 )
   * samen goed voor ?[vol_beton] beton of ?[wgt_beton] beton
-    ![vol_beton]:[ * vloerdikte +:3 opp_woonkamer opp_keuken opp_overloop]
-    ![wgt_beton]:[ * sg_beton vol_beton]
+    [vol_beton]:( * vloerdikte +:3 opp_woonkamer opp_keuken opp_overloop )
+    [wgt_beton]:( * sg_beton vol_beton )
   * beton heeft een warmtecapaciteit rond ?[heatcap_beton], water is ?[heatcap_water]
   * al dat beton is dus vergelijkbaar met ?[wgt_betonalswater] of ?[vol_betonalswater] water
-    ![wgt_betonalswater]:[ / *:3 vol_beton sg_beton heatcap_beton heatcap_water]
-    ![vol_betonalswater]:[ / wgt_betonalswater sg_water]
+    [wgt_betonalswater]:( / *:3 vol_beton sg_beton heatcap_beton heatcap_water )
+    [vol_betonalswater]:( / wgt_betonalswater sg_water )
 
 (Bovenstaand is portable CalcDown, onderstaand een automatisch heen en weer te vertalen Python variant met inline berekeningen)
 
@@ -93,21 +93,21 @@ De dimensies van de betonvloer:
 (Bovenstaande Python gebruikte inline math, maar ook hier zijn def_list references denkbaar.)
 
   * de vloer is ?[vloerdikte] dik, en weegt dus rond ?[oppwgt_beton]
-    ![vloerdikte]:[python 15cm]
-    ![oppwgt_beton]:[python vloerdikte * sg_beton]
+    [vloerdikte]:(python 15cm)
+    [oppwgt_beton]:(python vloerdikte * sg_beton)
   * woonkamergroep ?[opp_woonkamer]
   * keukengroep ?[opp_keukengroep]
   * overloopgroep ?[opp_overloop]
-    ![opp_woonkamer]:[python 20m2]
-    ![opp_keuken]:[python 15ms]
-    ![opp_overloop]:[python 5m2]
+    [opp_woonkamer]:(python 20m2)
+    [opp_keuken]:(python 15m2)
+    [opp_overloop]:(python 5m2)
   * samen goed voor ?[vol_beton] beton of ?[wgt_beton] beton
-    ![vol_beton]:[python vloerdikte * (opp_woonkamer + opp_keuken + opp_overloop)]
-    ![wgt_beton]:[python sg_beton * vol_beton]
+    [vol_beton]:(python vloerdikte * (opp_woonkamer + opp_keuken + opp_overloop))
+    [wgt_beton]:(python sg_beton * vol_beton)
   * beton heeft een warmtecapaciteit rond ?[heatcap_beton], water is ?[heatcap_water]
   * al dat beton is dus vergelijkbaar met ?[wgt_betonalswater] of ?[vol_betonalswater] water
-    ![wgt_betonalswater]:[python vol_beton * sg_beton * heatcap_beton / heatcap_water]
-    ![vol_betonalswater]:[python wgt_betonalswater / sg_water]
+    [wgt_betonalswater]:(python vol_beton * sg_beton * heatcap_beton / heatcap_water)
+    [vol_betonalswater]:(python wgt_betonalswater / sg_water)
 
 (Ook hierboven is weer geëxperimenteerd is met een luie vorm ?[ id] in plaats van ?[%d][id] of ?[%f][id], dat is een nieuw idee.)
 
