@@ -5,7 +5,7 @@
 
 **Woonsituatie:**
 
-  * Vlak dak, 50 m3, 3 verdiepingen met centrale trap
+  * Vlak dak, 50 m2, 3 verdiepingen met centrale trap
   * Buren oost en west; woonkamer zuid; keuken noord
   * Wonen op de 1e verdieping (denk aan een enorme kruipruimte)
   * Begane grond is altijd koel, pal op bodem

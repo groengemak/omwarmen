@@ -70,12 +70,12 @@ Uiteraard geldt voor de isolatie van een betonvloer dat die abominabel
 is; het hele idee van vloerverwarming is immers de afgifte van warmte!
 Omdat de warmte echter over een "dubbele" capaciteit wordt verdeeld om
 een lagere temperatuur te krijgen, kan worden gesteld dat de warmteweerstand
-dubbel zo hoog is als de vloerverarming zelf aangeeft.
+dubbel zo hoog is als de vloerverwarming zelf aangeeft.
 
 
 ### Beton en ruimte als warmtereservoir
 
-Het is ook nog mogelijk om de ruimte boven de vloerverarming mee te
+Het is ook nog mogelijk om de ruimte boven de vloerverwarming mee te
 rekenen in de warmtecapaciteit.  Dat wordt al snel vaag, omdat er dan
 factoren gaan meespelen als tocht en isolatie van de woning.  Dit is
 goed om te weten voor het wooncomfort, maar verder zinloos complicerend
@@ -194,7 +194,7 @@ vloer?  Of misschien een opblaasbare ballon van aluminiumfolie?
 
 ## Overschot aan zonnewarmte
 
-Het is mogelijk om een extra groep aan de vloerverarming te koppelen
+Het is mogelijk om een extra groep aan de vloerverwarming te koppelen
 voor "gekke projecten", zoals een droogkast voor groente, fruit en
 lijnzaadcrackers.  Er zijn wel meer natuurlijke processen die rond of
 onder 40 graden plaatsvinden, zoals bier, yoghurt, tempeh.

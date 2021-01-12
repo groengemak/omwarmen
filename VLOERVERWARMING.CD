@@ -60,21 +60,21 @@ De dimensies van de betonvloer:
 (Bovenstaand inline CalcDown, onderstaand worden def_lists gereferenced, en ook maar meteen gebruikt als freevarnamen, twee nieuwe ideeën die de notatie flink opschonen.)
 
   * de vloer is ?[vloerdikte] dik, en weegt dus rond ?[oppwgt_beton]
-    [vloerdikte]:( 15cm )
-    [oppwgt_beton]:( * vloerdikte sg_beton )
+    [vloerdikte]: . ( 15cm )
+    [oppwgt_beton]: . ( * vloerdikte sg_beton )
   * woonkamergroep ?[opp_woonkamer]
   * keukengroep ?[opp_keuken]
   * overloopgroep ?[opp_overloop]
-    [opp_woonkamer]:( 20m2 )
-    [opp_keuken]:( 15m2 )
-    [opp_overloop]:( 5m2 )
+    [opp_woonkamer]: . ( 20m2 )
+    [opp_keuken]: . ( 15m2 )
+    [opp_overloop]: . ( 5m2 )
   * samen goed voor ?[vol_beton] beton of ?[wgt_beton] beton
-    [vol_beton]:( * vloerdikte +:3 opp_woonkamer opp_keuken opp_overloop )
-    [wgt_beton]:( * sg_beton vol_beton )
+    [vol_beton]: . ( * vloerdikte +:3 opp_woonkamer opp_keuken opp_overloop )
+    [wgt_beton]: . ( * sg_beton vol_beton )
   * beton heeft een warmtecapaciteit rond ?[heatcap_beton], water is ?[heatcap_water]
   * al dat beton is dus vergelijkbaar met ?[wgt_betonalswater] of ?[vol_betonalswater] water
-    [wgt_betonalswater]:( / *:3 vol_beton sg_beton heatcap_beton heatcap_water )
-    [vol_betonalswater]:( / wgt_betonalswater sg_water )
+    [wgt_betonalswater]: . ( / *:3 vol_beton sg_beton heatcap_beton heatcap_water )
+    [vol_betonalswater]: . ( / wgt_betonalswater sg_water )
 
 (Bovenstaand is portable CalcDown, onderstaand een automatisch heen en weer te vertalen Python variant met inline berekeningen)
 
@@ -93,21 +93,21 @@ De dimensies van de betonvloer:
 (Bovenstaande Python gebruikte inline math, maar ook hier zijn def_list references denkbaar.)
 
   * de vloer is ?[vloerdikte] dik, en weegt dus rond ?[oppwgt_beton]
-    [vloerdikte]:(python 15cm)
-    [oppwgt_beton]:(python vloerdikte * sg_beton)
+    [vloerdikte]: . (python 15cm)
+    [oppwgt_beton]: . (python vloerdikte * sg_beton)
   * woonkamergroep ?[opp_woonkamer]
   * keukengroep ?[opp_keukengroep]
   * overloopgroep ?[opp_overloop]
-    [opp_woonkamer]:(python 20m2)
-    [opp_keuken]:(python 15m2)
-    [opp_overloop]:(python 5m2)
+    [opp_woonkamer]: . (python 20m2)
+    [opp_keuken]: . (python 15m2)
+    [opp_overloop]: . (python 5m2)
   * samen goed voor ?[vol_beton] beton of ?[wgt_beton] beton
-    [vol_beton]:(python vloerdikte * (opp_woonkamer + opp_keuken + opp_overloop))
-    [wgt_beton]:(python sg_beton * vol_beton)
+    [vol_beton]: . (python vloerdikte * (opp_woonkamer + opp_keuken + opp_overloop))
+    [wgt_beton]: . (python sg_beton * vol_beton)
   * beton heeft een warmtecapaciteit rond ?[heatcap_beton], water is ?[heatcap_water]
   * al dat beton is dus vergelijkbaar met ?[wgt_betonalswater] of ?[vol_betonalswater] water
-    [wgt_betonalswater]:(python vol_beton * sg_beton * heatcap_beton / heatcap_water)
-    [vol_betonalswater]:(python wgt_betonalswater / sg_water)
+    [wgt_betonalswater]: . (python vol_beton * sg_beton * heatcap_beton / heatcap_water)
+    [vol_betonalswater]: . (python wgt_betonalswater / sg_water)
 
 (Ook hierboven is weer geëxperimenteerd is met een luie vorm ?[ id] in plaats van ?[%d][id] of ?[%f][id], dat is een nieuw idee.)
 
@@ -138,12 +138,12 @@ Uiteraard geldt voor de isolatie van een betonvloer dat die abominabel
 is; het hele idee van vloerverwarming is immers de afgifte van warmte!
 Omdat de warmte echter over een "dubbele" capaciteit wordt verdeeld om
 een lagere temperatuur te krijgen, kan worden gesteld dat de warmteweerstand
-dubbel zo hoog is als de vloerverarming zelf aangeeft.
+dubbel zo hoog is als de vloerverwarming zelf aangeeft.
 
 
 ### Beton en ruimte als warmtereservoir
 
-Het is ook nog mogelijk om de ruimte boven de vloerverarming mee te
+Het is ook nog mogelijk om de ruimte boven de vloerverwarming mee te
 rekenen in de warmtecapaciteit.  Dat wordt al snel vaag, omdat er dan
 factoren gaan meespelen als tocht en isolatie van de woning.  Dit is
 goed om te weten voor het wooncomfort, maar verder zinloos complicerend
@@ -262,7 +262,7 @@ vloer?  Of misschien een opblaasbare ballon van aluminiumfolie?
 
 ## Overschot aan zonnewarmte
 
-Het is mogelijk om een extra groep aan de vloerverarming te koppelen
+Het is mogelijk om een extra groep aan de vloerverwarming te koppelen
 voor "gekke projecten", zoals een droogkast voor groente, fruit en
 lijnzaadcrackers.  Er zijn wel meer natuurlijke processen die rond of
 onder 40 graden plaatsvinden, zoals bier, yoghurt, tempeh.
