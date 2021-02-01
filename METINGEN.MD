@@ -19,10 +19,26 @@
 
   * Verbruik 97 kWh, jaargemiddeld/52 = 22 kWh, extra is dus 75 kWh
   * KNMI meldt [gemiddeld 2,9˚C](https://www.knmi.nl/nederland-nu/weer/waarnemingen) en binnen hield ik het 16-17˚C
-  * het "weerstandsnetwerk" naar buiten lekte dus 75 kWh/m / 13,6 ˚C = 5,5 kWh/˚C/w
+  * het "weerstandsnetwerk" naar buiten lekte dus 75 kWh/w / 13,6 ˚C = 5,5 kWh/˚C/w
   * weken zijn kort; 5,5 kWh/˚C/w = 23,9 kWh/˚C/m = 0,787 kWh/˚C/d
   * dit is duidelijk hoger dan de voorspelling, er was niet eens vorst
   * bij vorst zou linear verbruikt zijn geweest 7 d/w * 16,5˚C * 0,787 kWh/˚C/d = 91 kWh
   * tegen €0,11/kWh: weekstook: weekstook €8, was bij vorst geweest €10
   * de "rest" van 900 kWh/j is toereikend voor 12 van deze weken of 10 vorstweken 
+
+**Januari 2021, 2e week met veel kou:**
+
+  * de 2e week was bijna gelijk aan de 1e week
+
+**Januari 2021: 1e/2e/4e week koud, 4e week zon:**
+
+  * Verbruik 357 kWh, jaargemiddeld/52 = 22 kWh, extra is dus 335 kWh
+  * KNMI meldt [gemiddeld 3,4˚C](https://www.knmi.nl/nederland-nu/weer/waarnemingen) en binnen hield ik het 16-17˚C
+  * het "weerstandsnetwerk" naar buiten lekte dus 335 kWh/m / 13,1˚C = 25,6 kWh/˚C/m
+  * maanden zijn lang; 25,6 kWh/˚C/m = 5,9 kWh/˚C/w = 0,840 kWh/˚C/d
+  * er was nu vorst in de 1e, 2e en een paar nachten in de 4e week
+  * gemiddeld vorst zou hebben gekost 30.5 d/m * 16,5˚C * 0,840 kWh/˚C/d = 423 kWh
+  * gemiddeld vorst zou hebben gekost 7 d/m * 16,5˚C * 0,840 kWh/˚C/d = 97 kWh
+  * tegen €0,11/kWh: maandstook: €36,85, was bij vorst geweest €46,53
+  * de "rest" van 900 kWh/j is toereikend voor 2,7 van deze maanden of 2,12 vorstmaanden
 
