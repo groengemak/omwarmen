@@ -32,13 +32,29 @@
 
 **Januari 2021: 1e/2e/4e week koud, 4e week zon:**
 
-  * Verbruik 357 kWh, jaargemiddeld/52 = 22 kWh, extra is dus 335 kWh
+  * Verbruik 357 kWh, jaargemiddeld/12 = 96 kWh, extra is dus 261 kWh
   * KNMI meldt [gemiddeld 3,4˚C](https://www.knmi.nl/nederland-nu/weer/waarnemingen) en binnen hield ik het 16-17˚C
-  * het "weerstandsnetwerk" naar buiten lekte dus 335 kWh/m / 13,1˚C = 25,6 kWh/˚C/m
-  * maanden zijn lang; 25,6 kWh/˚C/m = 5,9 kWh/˚C/w = 0,840 kWh/˚C/d
+  * het "weerstandsnetwerk" naar buiten lekte dus 261 kWh/m / 13,1˚C = 19,9 kWh/˚C/m
+  * maanden zijn lang; 19,9 kWh/˚C/m = 4,6 kWh/˚C/w = 0,901 kWh/˚C/d
   * er was nu vorst in de 1e, 2e en een paar nachten in de 4e week
-  * gemiddeld vorst zou hebben gekost 30.5 d/m * 16,5˚C * 0,840 kWh/˚C/d = 423 kWh
-  * gemiddeld vorst zou hebben gekost 7 d/m * 16,5˚C * 0,840 kWh/˚C/d = 97 kWh
-  * tegen €0,11/kWh: maandstook: €36,85, was bij vorst geweest €46,53
-  * de "rest" van 900 kWh/j is toereikend voor 2,7 van deze maanden of 2,12 vorstmaanden
+  * gemiddeld vorst zou hebben gekost 30.5 d/m * 16,5˚C * 0,655 kWh/˚C/d = 330 kWh
+  * gemiddeld vorst zou hebben gekost 7 d/m * 16,5˚C * 0,655 kWh/˚C/d = 76 kWh
+  * tegen €0,11/kWh: maandstook: €28,71, was bij vorst geweest €36,30
+  * de "rest" van 900 kWh/j is toereikend voor 3,4 van deze maanden of 2,7 vorstmaanden
+
+**Februari 2021: 1..6 feb, vlak voor een stevige koudeperiode:**
+
+  * Verbruik 33 kWh, jaargemiddeld\*5d/1y = 16 kWh, extra is dus 17 kWh
+  * KNMI meldt gemiddeld 3,9˚C en binnen had ik het 16-17˚C
+  * het "weerstandsnetwerk" naar buiten lekte dus 17 kWh/5d / 12,6˚C = 0,27 kWh/˚C/d
+  * (de andere berekeningen lijken nauwkeuriger dan ze zijn met zo'n korte meetperiode)
+
+**Februari 2021: 7..X feb, een pittige vorstperiode met veel sneeuw:**
+
+  * Poolwinden slaan op iets zuidelijker warme stromingen
+  * Temperaturen dalen tot -6 ˚C 's nachts, ook overdag onder nul, langzaam stijgend
+  * Een dikke laag sneeuw en zelfs opgewaaide sneeuwuinen
+  * (voorspeld als hierboven)
+  * De "aan" tijden van de panelen liggen ruim onder half, het verschil verdubbelt niet
+  * Overweging om 's nachts een minimumtemperatuur in te stellen, bv. 10 ˚C
 
