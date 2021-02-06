@@ -49,7 +49,7 @@
   * het "weerstandsnetwerk" naar buiten lekte dus 17 kWh/5d / 10,9˚C = 0,31 kWh/˚C/d
   * (de andere berekeningen lijken nauwkeuriger dan ze zijn met zo'n korte meetperiode)
 
-**Februari 2021: 7..X feb, een pittige vorstperiode met veel sneeuw:**
+**Februari 2021: 6..X feb, een pittige vorstperiode met veel sneeuw:**
 
   * Poolwinden slaan op iets zuidelijker warme stromingen
   * Temperaturen dalen tot -6 ˚C 's nachts, ook overdag onder nul, langzaam stijgend
