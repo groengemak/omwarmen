@@ -49,12 +49,20 @@
   * het "weerstandsnetwerk" naar buiten lekte dus 17 kWh/5d / 10,9˚C = 0,31 kWh/˚C/d
   * (de andere berekeningen lijken nauwkeuriger dan ze zijn met zo'n korte meetperiode)
 
-**Februari 2021: 6..X feb, een pittige vorstperiode met veel sneeuw:**
+**Februari 2021: 6..14 feb, een pittige vorstperiode met veel sneeuw:**
 
   * Poolwinden slaan op iets zuidelijker warme stromingen
   * Temperaturen dalen tot -6 ˚C 's nachts, ook overdag onder nul, langzaam stijgend
-  * Een dikke laag sneeuw en zelfs opgewaaide sneeuwuinen
-  * (voorspeld als hierboven)
-  * De "aan" tijden van de panelen liggen ruim onder half, het verschil verdubbelt niet
-  * Overweging om 's nachts een minimumtemperatuur in te stellen, bv. 10 ˚C
+  * Een dikke laag sneeuw en zelfs opgewaaide sneeuwduinen
+  * KNMI meldt t/m 14-2 gemiddeld -0,2 ˚C, t/m 6-2 was 5,6 ˚C dus deze 8 dagen gemiddeld (-0,2x14 - 5,6x6) / (14-6) = -3,9 ˚C
+  * De "aan" tijden van de panelen lagen altijd ruim onder half, het verschil verdubbelt niet, de panelen trokken het prima
+  * Doel was zeker te stellen dat de panelen het "trokken", daarom 's nachts ook minima ingesteld zoals 12-14 ˚C
+  * Nachtverwarming overwint een iets groter temperatuurverschil maar laadt uiteindelijk warmte in de woning
+  * Algemeen weer opgemerkt dat de panelen het werk van elkaar overnemen; je laadt inderdaad warmte in de woning
+  * Verbruik 153 kWh in 8 dagen, jaargemiddeldex8/365.25 = 25 kWh, extra is dus 128 kWh
+  * binnen had ik het 16-17 ˚C dus overwon ik 20,4 ˚C gemiddeld
+  * het "weerstandsnetwerk" naar buiten lekte dus 128 kWh / 8d / 20,4 ˚C = 0,784 kWh/˚C/d
+  * tegen €0,11/kWh heeft dit €1,76/d gekost, een maand zou €54 hebben gekost
+  * Opvallend veel zon deze week; een geschikte zonnecollector had het verbruik helpen drukken
+  * Veel zon was ook aangenomen, de koudste dagen zijn vaak genoeg erg zonnig (vermoeden lage luchtvochtigheid onder 0 ˚C)
 
