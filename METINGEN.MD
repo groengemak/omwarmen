@@ -35,7 +35,7 @@
   * Verbruik 357 kWh, jaargemiddeld/12 = 96 kWh, extra is dus 261 kWh
   * KNMI meldt [gemiddeld 3,4˚C](https://www.knmi.nl/nederland-nu/weer/waarnemingen) en binnen hield ik het 16-17˚C
   * het "weerstandsnetwerk" naar buiten lekte dus 261 kWh/m / 13,1˚C = 19,9 kWh/˚C/m
-  * maanden zijn lang; 19,9 kWh/˚C/m = 4,6 kWh/˚C/w = 0,901 kWh/˚C/d
+  * maanden zijn lang; 19,9 kWh/˚C/m = 4,6 kWh/˚C/w = 0,655 kWh/˚C/d
   * er was nu vorst in de 1e, 2e en een paar nachten in de 4e week
   * gemiddeld vorst zou hebben gekost 30.5 d/m * 16,5˚C * 0,655 kWh/˚C/d = 330 kWh
   * gemiddeld vorst zou hebben gekost 7 d/m * 16,5˚C * 0,655 kWh/˚C/d = 76 kWh
