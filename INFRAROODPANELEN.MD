@@ -40,6 +40,47 @@ is gewoon wat te weinig warmte, maar het is nog altijd oplosbaar met een
 trui, deken of jas.  Niet ideaal, maar ook verre van dodelijk.  En doenlijk
 om een paar dagen mee te overbruggen tot een extra paneel arriveert.
 
+## Meten is Weten
+
+Met een testpaneel kun je metingen doen.  Handig als de buren op
+kamertemperatuur zitten (dat ankerpunt heb je ook in de winter namelijk)
+en als het buiten stabiel is (maar je kunt ook het gemiddelde meten).
+Als het paneel voluit brandt dan kun je meten hoeveel ˚C de temperatuur
+stijgt; of als je een thermostaat hebt dan kun je meten hoeveel extra
+energie nodig is om van 1 ˚C warmer over te gaan op 2 ˚C warmer.  (Twee
+metingen zorgen ervoor dat de afstelling van de thermostaat in beide
+gevallen dezelfde invloed heeft.)  Zorg voor stabiele meetpunten, dus
+ga niet klaarzitten tot een temperatuur bereikt is maar wacht tot het
+tot rust komt en de temperatuur stabiel is.  Zo vang je vertraagde
+werking op, zoals het geleidelijk opwarmen van de omgeving.
+
+Je meet het aantal ˚C verhoging, het aantal Watt dat hiervoor nodig is
+en vermenigvuldigt dat met 24/1000 kWh/d/W.  Of je gaat uit van het vermogen
+en meet het aantal ˚C verhoging dat daarbij hoort; het vermogen vermenigvuldig
+je ook nu met 24/1000 kWh/d/W.  Deel het aantal kWh/d nu door het aantal ˚C
+verhoging om te vinden hoeveel kWh/˚C/d je nodig hebt.  Het systeem is
+in principe een lineair (warmte)weerstandsnetwerk, dus je kunt dit getal
+vermenigvuldigen met het aantal ˚C verschil dat je wilt overwinnen, en
+dan zie je hoeveel kWh per dag nodig is.  Uiteindelijk zullen krap bemeten
+panelen langer branden dan ruimschoots toereikende, dus het vermogen per
+paneel bepaalt de opwarmtijd maar niet het energieverbruik; dat heb je al
+uitgerekend met dit kengetal.
+
+Zoals bij METINGEN te zien is, verbruikt mijn huis ongeveer 0,75 kWh/˚C/d,
+met variaties die afhangen zijn van factoren zoals windkracht en -richting,
+en afkoeling door regen.  Een paneel van 300 W kan in 1 d = 24 h een warmte
+leveren van 300 W * 24/1000 kWh/d/W = 7,2 kWh/d.  In termen van warmte rekent
+met liever met Joules, dat komt dan neer op 7,2 kWh * 3,6 MJ/kWh = 25,9 MJ.
+De temperatuurstijging die dit ene paneel zou kunnen leveren is dan
+7,2 kWh/d / 0,75 kWh/˚C/d = 5,4 ˚C.  En dat is dan bij voortdurend branden,
+dus onvoldoende.  Maar het is lineair, dus twee zulke panelen bieden het
+dubbele, en zo kun je uitrekenen wat krap genoeg is en wat een voorgestelde
+ruime configuratie nog net aan zou moeten kunnen.  De ˚C zijn hierbij het
+verschil met de buitentemperatuur en binnen.  Als je achteraf meet wat je
+systeem doet over meerdere dagen, zoals bij METINGEN is gedaan, kijk dan
+naar de gemiddelde temperatuur, zoals de KNMI het rapporteert vanaf het
+begin van de maand.
+
 ## Aanvulling op achtergrondwarmte
 
 Er zijn geluiden dat verwarmen op alleen infraroodpanelen problemen kan
