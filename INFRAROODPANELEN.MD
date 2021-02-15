@@ -119,6 +119,29 @@ Dit zal vermoedelijk niet op zones ingericht zijn, anders werden ramen
 en deuren anders besproken.  Het idee is hier dus een egale en aangename
 warmte door het hele huis.  De vraag is (nog altijd) of dat nodig is.
 
+**Praktijk:** Het lijkt erop dat stoken van mijn woning ongeveer
+0,75 kWh/˚C/d kost.  Dat wil zeggen, om gedurende de dag 1 ˚C boven
+de gemiddelde buitentemperatuur te blijven is 0,75 kWh nodig op die
+dag.  Let wel, daarmee zijn variaties in de temperatuur niet meegerekend,
+dus een marge is prettig.  Met het bereik dat hieronder wordt berekend
+kun je dus ook zien welke diepste nachttemperatuur overwonnen kan worden
+met een vast ingestelde temperatuur, met minder activiteit overdag als
+het dan warmer is.
+
+Ik heb 3 panelen van 700 Watt en 2 van 600 Watt verdeeld over de
+woonvloer.  Daarmee is 3x700 + 2x600 = 3,3 kW op te wekken.  In een
+dag zelfs 79,2 kWh/d.  Daarmee is een temperatuursverschil met buiten
+te overbruggen van 79,2 kWh/d / 0,75 kWh/˚C/d = 105 ˚C.  Dus als ik
+het binnen 18 ˚C wil hebben dan mag het buiten dalen tot -87 ˚C.  Dat
+lijkt me afdoende!
+
+De plaatsing van panelen is redelijk willekeurig; in principe stroomt
+de warmte altijd naar de koudste plekken.  De vraag is dus vooral waar
+je snel warmte wenste.  Ook de vermogens kies je vooral op de plek waar
+je het snelst warmte wilt, bijvoorbeeld bij het bureau of de bank waar
+je stilzit.  In een keuken ben je beweeglijker en zul je mogelijk een
+wat lagere temperatuur instellen.
+
 ## Waarnemingen: Gevoelsmatig
 
 In de winter van 2020/2021 was ik elke dag en avond thuis wegens lock-downs.
@@ -165,6 +188,22 @@ temperatuurverschil in ongeveer een uur en daarna wordt het kalmpjes
 bijgehouden.  Dit versterkt ook het geloof dat het gebruik van
 zonnecollectoren met de betonvloer als warmteopslag goed zal uitpakken.
 Met name in ruimtes op het noorden, die minder zon opvangen.
+
+We hebben een **pittige winterweek** gehad van 6-14 februari 2021, met
+temperaturen rond -5 ˚C en gevoelstemperaturen zo laag als -15 ˚C.
+Overal lag een dik pak van 10-30 cm sneeuw, en we konder schaatsen
+op natuurijs.  Ook deze periode is moeiteloos doorlopen met een
+aangenaam constante binnentemperatuur, veel prettiger dan wat ik uit
+het verleden kende met warmtenet en radiatoren in dezelfde woning.
+Precies zoals verwacht resulteerde een verdubbeling van het te overwinnen
+temperatuursverschil met buiten in een verdubbeling van de "aan" tijd
+van de panelen en een verdubbeling van het verbruikte vermogen.  Zie
+de WAARNEMINGEN voor details.  Het klopte inderdaad dat we veel zon
+hebben gehad in deze week, waardoor het in de woonkamer op het zuiden
+1-2 ˚C warmer werd dan op de thermostaat ingesteld.  De verlenging
+hiervan naar de noordkant via zonnecollectoren lijkt inderdaad slim,
+mits die goed rechtop staan en dus grotendeels sneeuwvrij zijn of
+warm genoeg worden om de sneeuw te doen smelten.
 
 ## Waarnemingen: Thermostaten
 
