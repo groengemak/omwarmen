@@ -40,7 +40,7 @@ is gewoon wat te weinig warmte, maar het is nog altijd oplosbaar met een
 trui, deken of jas.  Niet ideaal, maar ook verre van dodelijk.  En doenlijk
 om een paar dagen mee te overbruggen tot een extra paneel arriveert.
 
-## Meten is Weten
+## Meten is weten
 
 Met een testpaneel kun je metingen doen.  Handig als de buren op
 kamertemperatuur zitten (dat ankerpunt heb je ook in de winter namelijk)
@@ -55,15 +55,17 @@ tot rust komt en de temperatuur stabiel is.  Zo vang je vertraagde
 werking op, zoals het geleidelijk opwarmen van de omgeving.
 
 Je meet het aantal ˚C verhoging, het aantal Watt dat hiervoor nodig is
-en vermenigvuldigt dat met 24/1000 kWh/d/W.  Of je gaat uit van het vermogen
+en vermenigvuldigt dat vermogen met 24/1000 kWh/d/W.  Of je gaat uit van het vermogen
 en meet het aantal ˚C verhoging dat daarbij hoort; het vermogen vermenigvuldig
 je ook nu met 24/1000 kWh/d/W.  Deel het aantal kWh/d nu door het aantal ˚C
 verhoging om te vinden hoeveel kWh/˚C/d je nodig hebt.  Het systeem is
-in principe een lineair (warmte)weerstandsnetwerk, dus je kunt dit getal
+in principe een lineair (warmte)weerstandsnetwerk, met een kleine
+afwijking als je buren op een net iets hogere of lagere kamertemperatuur zitten,
+dus je kunt dit getal
 vermenigvuldigen met het aantal ˚C verschil dat je wilt overwinnen, en
 dan zie je hoeveel kWh per dag nodig is.  Uiteindelijk zullen krap bemeten
 panelen langer branden dan ruimschoots toereikende, dus het vermogen per
-paneel bepaalt de opwarmtijd maar niet het energieverbruik; dat heb je al
+paneel bepaalt de opwarmtijd maar niet het energieverbruik; de energie heb je al
 uitgerekend met dit kengetal.
 
 Zoals bij METINGEN te zien is, verbruikt mijn huis ongeveer 0,75 kWh/˚C/d,
@@ -73,7 +75,7 @@ leveren van 300 W * 24/1000 kWh/d/W = 7,2 kWh/d.  In termen van warmte rekent
 met liever met Joules, dat komt dan neer op 7,2 kWh * 3,6 MJ/kWh = 25,9 MJ.
 De temperatuurstijging die dit ene paneel zou kunnen leveren is dan
 7,2 kWh/d / 0,75 kWh/˚C/d = 5,4 ˚C.  En dat is dan bij voortdurend branden,
-dus onvoldoende.  Maar het is lineair, dus twee zulke panelen bieden het
+dus geen complete oplossing.  Maar het is lineair, dus twee zulke panelen bieden het
 dubbele, en zo kun je uitrekenen wat krap genoeg is en wat een voorgestelde
 ruime configuratie nog net aan zou moeten kunnen.  De ˚C zijn hierbij het
 verschil met de buitentemperatuur en binnen.  Als je achteraf meet wat je
@@ -112,7 +114,7 @@ dat er op minder infraroodpanelen hoeft te worden gerekend.
 
 Zonnecellen leveren vooral elektriciteit in de zomer.  Geheid dat prijzen
 op de energiemarkt gaan varieren en dat de prijzen voor elektra in de zomer
-hoger worden dan in de winter.  Energieneutraal is een ander doel dan een
+lager worden dan in de winter.  Energieneutraal is een ander doel dan een
 energierekening op nul.  Wil je dat ook, dan moet je mogelijk meer
 overcapaciteit hebben, of andere vormen van duurzame energie afleveren.
 
@@ -183,16 +185,16 @@ je het snelst warmte wilt, bijvoorbeeld bij het bureau of de bank waar
 je stilzit.  In een keuken ben je beweeglijker en zul je mogelijk een
 wat lagere temperatuur instellen.
 
-**Extreme testcase:**
+**Extreem rekenvoorbeeld:**
 Gemiddeld wordt het
 [-50 ˚C op de Noordpool](https://nl.wikipedia.org/wiki/Noordpool)
 en
 [-82 ˚C op de Zuidpool](https://nl.wikipedia.org/wiki/Zuidpool)
-dus er moet aardig wat water door de Zee stromen voordat ik het
-koud krijgt.  Uit interesse, 18 ˚C volhouden op de Noordpool zou
+dus dat is met het hierboven doorgerekende systeem uit te houden!
+Uit interesse, 18 ˚C volhouden op de Noordpool zou
 (18 ˚C - -50 ˚C) x 0,75 kWh/˚C/d = 90 kWh/d kosten en op de Zuidpool
 (18 ˚C - -82 ˚C) x 0,75 kWh/˚C/d = 133 kWh/d.  Tegen €0,11/kWh is dat
-dan €9,90/d en €14,63/d.  Alleen is er best weinig overcapaciteit
+dan €10/d en €15/d.  Alleen is er best weinig overcapaciteit
 om variaties in temperatuur op de Zuidpool op te vangen.
 Gekheid natuurlijk, op de polen zou ik een beter geïsoleerde woning
 bouwen; en ook hier ga ik daarvoor zorgen.  Met name de garage lijkt
