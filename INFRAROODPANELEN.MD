@@ -275,9 +275,12 @@ het ten slotte tot rust komt en af en toe maar even inschakelt.  Dit is
 de meest precieze manier om de temperatuur van het paneel af te stemmen
 op de vraag naar infraroodstraling.  In vergelijking hebben **mechanische
 thermostaten** een veel grotere hysterises, en dat maakt de temperatuur
-van de panelen periodiek te warm en te groot; dit is precies hoe je een
+van de panelen periodiek te warm en later te koud; dit is precies hoe je een
 hysteresis in een thermostaat bouwt, door bij een lagere temepatuur in
-te schakelen dan die waarbij je uitschakelt.
+te schakelen dan die waarbij je uitschakelt.  Als dit echter de enige
+energie is die een mechanische omschakeling oplevert dan zijn de variaties
+te groot om aangenaam te zijn.  Elektronische sensoren worden versterkt,
+waardoor ze gevoeliger kunnen zijn.
 
 De vermogens van een infraroodpaneel zijn hoog, en **schakelen met relais**
 is welhaast nodig.  De meeste thermostaten zijn gemaakt om een pomp aan
