@@ -133,7 +133,7 @@ woonvloer.  Daarmee is 3x700 + 2x600 = 3,3 kW op te wekken.  In een
 dag zelfs 79,2 kWh/d.  Daarmee is een temperatuursverschil met buiten
 te overbruggen van 79,2 kWh/d / 0,75 kWh/˚C/d = 105 ˚C.  Dus als ik
 het binnen 18 ˚C wil hebben dan mag het buiten dalen tot -87 ˚C.  Dat
-lijkt me afdoende!
+lijkt me afdoende.
 
 De plaatsing van panelen is redelijk willekeurig; in principe stroomt
 de warmte altijd naar de koudste plekken.  De vraag is dus vooral waar
@@ -141,6 +141,22 @@ je snel warmte wenste.  Ook de vermogens kies je vooral op de plek waar
 je het snelst warmte wilt, bijvoorbeeld bij het bureau of de bank waar
 je stilzit.  In een keuken ben je beweeglijker en zul je mogelijk een
 wat lagere temperatuur instellen.
+
+**Extreme testcase:**
+Gemiddeld wordt het
+[-50 ˚C op de Noordpool](https://nl.wikipedia.org/wiki/Noordpool)
+en
+[-82 ˚C op de Zuidpool](https://nl.wikipedia.org/wiki/Zuidpool)
+dus er moet aardig wat water door de Zee stromen voordat ik het
+koud krijgt.  Uit interesse, 18 ˚C volhouden op de Noordpool zou
+(18 ˚C - -50 ˚C) x 0,75 kWh/˚C/d = 90 kWh/d kosten en op de Zuidpool
+(18 ˚C - -82 ˚C) x 0,75 kWh/˚C/d = 133 kWh/d.  Tegen €0,11/kWh is dat
+dan €9,90/d en €14,63/d.  Alleen is er best weinig overcapaciteit
+om variaties in temperatuur op de Zuidpool op te vangen.
+Gekheid natuurlijk, op de polen zou ik een beter geïsoleerde woning
+bouwen; en ook hier ga ik daarvoor zorgen.  Met name de garage lijkt
+een probleem qua isolatie; die is inderdaad niet tochtdicht door
+kromgetrokken houten deuren.  Een mooie aanpassing voor deze zomer.
 
 ## Waarnemingen: Gevoelsmatig
 
@@ -163,14 +179,14 @@ veel meer dan met een stel radiatoren.  Het verschil tussen ruimtes
 met anders ingestelde temperaturen was voelbaar, maar binnen een
 ruimte waren de verschillen niet groot.  Dit komt uiteraard doordat
 de panelen in milde omstandigheden ook maar matig opwarmen, zoals
-tot 40 ˚C.  Die warmte verdeelt zich maar de doorvoorsnelheid is
+tot 40 ˚C.  Die warmte verdeelt zich maar de doorvoersnelheid is
 minder.
 
 Naarmate het buiten afkoelt wordt meer warmte onttrokken aan de
 woning en wordt het wat kouder richting de buitenkanten (niet naar
 buren die ook stoken tot kamertemperatuur) en de panelen zelf worden
 warmer.  Als je dan langs een paneel loopt voel je de aangemane
-**warmte als van een vuur of zonnestraling**.  Dan neemt ook
+**warmte als van een houtvuur of zonnestraling**.  Dan neemt ook
 het gevoel van centrale verwarming af.  Overigens is dat vergelijkbaar
 met een radiator, die ook warmer wordt gestookt als het kouder wordt,
 en dan voelt het daar vlakbij ook warmer.
@@ -198,8 +214,10 @@ het verleden kende met warmtenet en radiatoren in dezelfde woning.
 Precies zoals verwacht resulteerde een verdubbeling van het te overwinnen
 temperatuursverschil met buiten in een verdubbeling van de "aan" tijd
 van de panelen en een verdubbeling van het verbruikte vermogen.  Zie
-de WAARNEMINGEN voor details.  Het klopte inderdaad dat we veel zon
-hebben gehad in deze week, waardoor het in de woonkamer op het zuiden
+de WAARNEMINGEN voor details.
+
+In diezelfde winterweek hadden we inderdaad **veel winterzon**,
+zoals aangenomen, waardoor het in de woonkamer op het zuiden
 1-2 ˚C warmer werd dan op de thermostaat ingesteld.  De verlenging
 hiervan naar de noordkant via zonnecollectoren lijkt inderdaad slim,
 mits die goed rechtop staan en dus grotendeels sneeuwvrij zijn of
@@ -251,7 +269,7 @@ het verschil tussen mechanische en elektronische thermostaten.  Met name
 **infraroodgevoelige thermostaten** werken heel goed.  Ik had een model
 dat totaal geen hysteris heeft, dus dat inschakelde zodra een enkele
 meting onder het doel zat en uitschakelde zodra het erboven zat.  Dit
-begint met een langere inschakeling, dan ziet hij een lichte overhoot en
+begint met een langere inschakeling, dan ziet hij een lichte overshoot en
 schakelt uit, even later weer in, het gaat een tijdje heen en weer tot
 het ten slotte tot rust komt en af en toe maar even inschakelt.  Dit is
 de meest precieze manier om de temperatuur van het paneel af te stemmen
