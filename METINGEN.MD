@@ -9,7 +9,7 @@
   * 17˚C is lager dan met radiotoren; dat is normaal bij IR; het voelt aangenaam
   * 16˚C voelt koel, maar is geschikt voor bijvoorbeeld de keuken waar je beweegt
   * het "weerstandsnetwerk" naar buiten lekte dus 226 kWh/m / 11 ˚C = 20,5 kWh/˚C/m
-  * maanden zijn lang; 20,5 kWh/˚C/m = 4,7 kWh/˚C/w = 0,7 kWh/˚C/d
+  * maanden zijn lang; 20,5 kWh/˚C/m = 4,7 kWh/˚C/w = **0,7 kWh/˚C/d**
   * voorspelling: een week vorst kost 1w x 4,7 kWh/˚C/w x 16,5˚C = 78 kWh
   * tegen €0,11/kWh: decemberstook €25, vorstweek €9, voorstmaand €37
   * het lagere kWh-bedrag is van toepassing door aansluiting met zonnecellen
@@ -20,7 +20,7 @@
   * Verbruik 97 kWh, jaargemiddeld/52 = 22 kWh, extra is dus 75 kWh
   * KNMI meldt [gemiddeld 2,9˚C](https://www.knmi.nl/nederland-nu/weer/waarnemingen) en binnen hield ik het 16-17˚C
   * het "weerstandsnetwerk" naar buiten lekte dus 75 kWh/w / 13,6 ˚C = 5,5 kWh/˚C/w
-  * weken zijn kort; 5,5 kWh/˚C/w = 23,9 kWh/˚C/m = 0,787 kWh/˚C/d
+  * weken zijn kort; 5,5 kWh/˚C/w = 23,9 kWh/˚C/m = **0,787 kWh/˚C/d**
   * dit is duidelijk hoger dan de voorspelling, er was niet eens vorst
   * bij vorst zou linear verbruikt zijn geweest 7 d/w * 16,5˚C * 0,787 kWh/˚C/d = 91 kWh
   * tegen €0,11/kWh: weekstook: weekstook €8, was bij vorst geweest €10
@@ -35,7 +35,7 @@
   * Verbruik 357 kWh, jaargemiddeld/12 = 96 kWh, extra is dus 261 kWh
   * KNMI meldt [gemiddeld 3,4˚C](https://www.knmi.nl/nederland-nu/weer/waarnemingen) en binnen hield ik het 16-17˚C
   * het "weerstandsnetwerk" naar buiten lekte dus 261 kWh/m / 13,1˚C = 19,9 kWh/˚C/m
-  * maanden zijn lang; 19,9 kWh/˚C/m = 4,6 kWh/˚C/w = 0,655 kWh/˚C/d
+  * maanden zijn lang; 19,9 kWh/˚C/m = 4,6 kWh/˚C/w = **0,655 kWh/˚C/d**
   * er was nu vorst in de 1e, 2e en een paar nachten in de 4e week
   * gemiddeld vorst zou hebben gekost 30.5 d/m * 16,5˚C * 0,655 kWh/˚C/d = 330 kWh
   * gemiddeld vorst zou hebben gekost 7 d/m * 16,5˚C * 0,655 kWh/˚C/d = 76 kWh
@@ -44,10 +44,10 @@
 
 **Februari 2021: 1..6 feb, vlak voor een stevige koudeperiode:**
 
-  * Verbruik 33 kWh, jaargemiddeld\*5d/1y = 16 kWh, extra is dus 17 kWh
+  * Verbruik 33 kWh, jaargemiddeld\*5d/1y = 16 kWh, extra is dus 17 kWh *met nogal wat onzekerheid*
   * KNMI meldt gemiddeld 5,6˚C en binnen had ik het 16-17˚C
   * het "weerstandsnetwerk" naar buiten lekte dus 17 kWh/5d / 10,9˚C = 0,31 kWh/˚C/d
-  * (de andere berekeningen lijken nauwkeuriger dan ze zijn met zo'n korte meetperiode)
+  * (de berekeningen lijken nauwkeuriger dan ze zijn met zo'n korte meetperiode)
 
 **Februari 2021: 6..14 feb, een pittige vorstperiode met veel sneeuw:**
 
@@ -61,7 +61,7 @@
   * Algemeen weer opgemerkt dat de panelen het werk van elkaar overnemen; je laadt inderdaad warmte in de woning
   * Verbruik 153 kWh in 8 dagen, jaargemiddeldex8/365.25 = 25 kWh, extra is dus 128 kWh
   * binnen had ik het 16-17 ˚C dus overwon ik 20,4 ˚C gemiddeld
-  * het "weerstandsnetwerk" naar buiten lekte dus 128 kWh / 8d / 20,4 ˚C = 0,784 kWh/˚C/d
+  * het "weerstandsnetwerk" naar buiten lekte dus 128 kWh / 8d / 20,4 ˚C = **0,784 kWh/˚C/d**
   * tegen €0,11/kWh heeft dit €1,76/d gekost, een maand zou €54 hebben gekost
   * Opvallend veel zon deze week; een geschikte zonnecollector had het verbruik helpen drukken
   * Veel zon was ook aangenomen, de koudste dagen zijn vaak genoeg erg zonnig (vermoeden lage luchtvochtigheid onder 0 ˚C)
