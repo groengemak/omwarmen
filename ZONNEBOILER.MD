@@ -143,3 +143,30 @@ dan meer vrijheid mogelijk.  Een warmtepomp die gemaakt is voor een
 zonneboiler is geen slimme omweg om te bewandelen als het aankomt
 op vloerverwarming.
 
+
+## Alternatief PCM
+
+Een PCM kan gebruikt worden als alternatief voor de zonneboiler.
+Gebruiken we een
+[S58 zouthydraat PCM](https://www.pcmproducts.net/Salt_Hydrate_PCMs.htm)
+in een
+[inkapseling](https://www.pcmproducts.net/Encapsulated_PCMs.htm)
+dan kunnen we in 60 liter of 0,06 m3 niet echt specifieke warmte
+kwijt (want de temperatuur wordt rechtstreek afgeleverd, er is
+niets over) maar wel de faseverandering tegen
+0,06 m3 x 218 MJ/m3 = 13 MJ.  We kunnen hiermee omlaag mengen
+tot 40 ˚C met koud water van 10 ˚C (verschil omhoog 30 K,
+verschil omlaag 26 K, dus bijna een verdubbeling van 60 liter
+naar 120 liter, dus zo'n 20 minuten douchen bij een spaarkop
+van 6 liter per minuut.
+
+De inhoud weegt 0,06 m3 x 1505 kg/m3 = 90 kg, dus veel meer dan
+60 liter water.  Daar komt bij dat er extra water nodig is, voor
+60 liter PCM is 60/0,64 - 60 = 34 liter water extra nodig, dus
+94 liter totaal en 90 + 34 = 124 kg.
+
+De PCM is dus minder efficient gebruik van de opslagruimte.
+Feitelijk wordt de kop van de entropie afgehakt, en dat gaat
+beter met opslag in water.  Ofwel, beter geen PCM maar beter
+een kleine boiler van 60 liter.
+

@@ -120,3 +120,4 @@ Dit kan ook perfect met een PCM onder de trap.  Een GFT-bak
 op douchewarmte zou zelfs nog versterkend kunnen werken en
 extra energie opleveren `;-)`
 
+
