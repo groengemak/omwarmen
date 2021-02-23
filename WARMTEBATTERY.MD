@@ -45,3 +45,47 @@ Niet alles is nog helder...
   * Kan het (zware) buffervat op de begane grond worden geplaatst?
   * Is het dan mogelijk de Heat eXchange nabij het dak te plaatsen?
 
+
+## Alternatief PCM
+
+Stel we gebruiken een
+[S10 zouthydraat PCM](https://www.pcmproducts.net/Salt_Hydrate_PCMs.htm)
+met een handige
+[inkapseling](https://www.pcmproducts.net/Encapsulated_PCMs.htm).
+We hebben dan 1900 J/kg.K soortelijke warmte en een faseverandering
+van 250 MJ/m3 bij een soortelijk gewicht van 1515 kg/m3.
+
+De 4,5 m3 onder de trap is dan goed voor het opslaan van
+4,5 m3 x 1515 kg/m3 x 1900 J/kg.K = 13 MJ
+aan soortelijke warmte plus
+4,5 m3 x 250 MJ/m3 = 1125 MJ
+aan faseopslag, samen dus 1138 MJ of 1,1 GJ.
+Dat is minder dan met het buffervat, maar voor de opslag
+op korte termijn is het ook veel simpeler.  PCM opstapelen,
+buizen erdoorheen, klaar.  Er zijn opties om het te koppelen
+aan zonnecollectoren of een vloerverwarmingsgroep, of aan de
+ondergrond.  En vooral, met 10 ˚C als temperatuur is de lek
+naar de schuur en zeker naar de vloer niet enorm hoog, het
+kan echter wel helpen beschermen tegen vorst en zolang het
+niet al te koud is "laadt het zich op", dat wil zeggen, kan
+een warmtepomp zich er tegen afzetten.
+
+Let op dat een 1,1 GJ bij een warmtepomp niet met de COP
+vermenigvuldigd kan worden; het is juist (1-1/COP) die
+uit deze voorraad moet komen, dus dit komt dan ongeveer uit
+rond 1,5 GJ.  Dit is de springplank, niet de veerspanning.
+Maar dan nog, is dit een prima opslagcapaciteit voor een
+afzetpunt voor een warmtepomp.
+
+Let op dat een warmtepomp de PCM ook onder het vriespunt
+zou kunnen drukken, door te veel energie te onttrekken.
+Dat is dan niet efficiënt meer, en afgeraden.  Beter is
+het dan op infrarood over te schakelen.  Sterk aan een
+PCM is dat je hem overdag met zonnewarmte weer kunt
+opladen, en dan 's avonds gebruiken.  Je gebruik van 5 GJ/y
+kost je dan ongeveer 1,25 GJ/y aan elektriciteit, tegen
+5 GJ/y voor infraroodpanelen.  Als het kan is een warmtepomp
+dus een prima idee, ook om de warmte van overdag te bufferen
+(zonder de schuur te zeer te verwarmen zelf).  Het lijkt ook
+een stuk simpeler dan een warmtebatterij, en uitgewerkter.
+

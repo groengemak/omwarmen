@@ -98,3 +98,14 @@ capaciteit van 4200 J/kg.K, dan kunnen we in 4 m3 oplaan
 verliezen we dan echter veel warmte door de hoge temperatuur en onhaalbare
 isolatiecriteria.
 
+Maar wat als we een
+[S21 PCM op 21 ˚C](https://www.pcmproducts.net/Salt_Hydrate_PCMs.htm)
+gebruiken?  Met latente opslag op 337 MJ/m3 en soortelijke warmte op
+2200 J/kg.K komen we van 10 ˚C tot 25 ˚C uit op soortelijke opslag
+van 15 K x 2200 J/kg.K x 4 m3 x 1530 kg/m3 = 202 MJ en daarbij komt dan
+de PCM-opslag van 4 m3 x 337 MJ/m3 = 1348 MJ, samen dus 1550 MJ of
+1,55 GJ.  Een PCM is niet geschikt over de seizoenen heen, maar kan wel
+een fraaie buffer zijn voor wat kortere termijn.
+De warmtegeleiding is niet hoog, met 0,52 W/m.K is centraal de afstand
+ongeveer 1 m en is bij 10 K verschil hooguit 5,2 W te verstouwen over
+een oppervlakte van 1 m2.
