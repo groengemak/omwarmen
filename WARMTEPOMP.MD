@@ -91,3 +91,10 @@ mogelijkheden halveren.  Het is fraai en redelijk dat op de uiteindes heipalen
 voor alleen die woningen zijn ingeramd, die hebben tenlotte ook een groter
 oppervlakte voor warmteverlies.
 
+*Alternatief.*  Hete opslag kan tot een graad of 98 ˚C, dus 88 K boven de
+normale temperatuur van de grond.  Als dat in water gebeurt, met een
+capaciteit van 4200 J/kg.K, dan kunnen we in 4 m3 oplaan
+4 m3 x 1000 kg/m3 x 4200 J/kg.K x 88 K = 1,5 GJ.  Over de seizoenen heen
+verliezen we dan echter veel warmte door de hoge temperatuur en onhaalbare
+isolatiecriteria.
+
