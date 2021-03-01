@@ -66,3 +66,13 @@
   * Opvallend veel zon deze week; een geschikte zonnecollector had het verbruik helpen drukken
   * Veel zon was ook aangenomen, de koudste dagen zijn vaak genoeg erg zonnig (vermoeden lage luchtvochtigheid onder 0 ˚C)
 
+**Februari 2021: vanaf 14 feb, een heel warme periode inclusief lenteweer:**
+
+ * KNMI meldt 4,3 ˚C gemiddeld over heel februari, dus deze 15 dagen gemiddeld (4,3x28 - (-0,2x13)) / 15 = 8,2 ˚C
+ * Verbruik 76 kWh in 15 dagen, jaargemiddeld x 15/365.25 = 47 kWh, extra dus 29 kWh
+ * Binnen 16-17 ˚C dus overwon ik 8,3 ˚C gemiddeld
+ * Het "weerstandsnetwerk" naar buiten lekte dus 29 kWh / 15d / 8,3 ˚C = **0,233 kWh/˚C/d**
+ * Tegen €0,11/kWh heeft dit €0,21/d gekost, de hele maand (28d) zou €5,95 hebben gekost
+ * Sterk gebruik kunnen maken van de woning als zonnecollector; warmte blijft daarenboven goed hangen
+ * Warmte lijkt heen en weer te gaan tussen vloerisolatie en IR-panelen aan plafond
+
