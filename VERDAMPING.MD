@@ -52,6 +52,19 @@ mee overweg.  Een paar traditionele oplossingen zijn:
   * De [Egyptische Qullah](https://en.wikipedia.org/wiki/Evaporative_cooler)
     gebruikt ook klei, gecombineerd met grofvezelige doek, om water
     te doen verdampen.
+  * De [Perzische Bâdgir](https://en.wikipedia.org/wiki/B%C3%A2dgir)
+    of windvanger is een paar torens om wind in en uit te laten, en
+    onderwijl door een gebouw te doen rouleren.  Passief koelend, en
+    heel interessant in een rijtjeswoning die als een blok tegen de
+    wind aan leunt.  Ze worden ook gebruikt in een
+    [Ab anbar](https://en.wikipedia.org/wiki/Ab_anbar) of waterreservoir,
+    al dan niet met een verbinding met een
+    [Qanat](https://en.wikipedia.org/wiki/Qanat) of watertunnel,
+    en in een extreme vorm lukt het met een
+    [Yakhchāl](https://en.wikipedia.org/wiki/Yakhch%C4%81l) of ijsput
+    zelfs om ijs te maken in de woestijn.  Specifieke lokale omstandigheden
+    spelen een rol bij het
+    [ontwerpen van passieve koeling](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6317345C8FB8B405AADE7BA99CD62E8B/S1359135501001312a.pdf/passive_downdraught_evaporative_cooling_principles_and_practice.pdf).
   * Planten verdampen veel water via hun blad.  Let dus op planten
     die snel groeien en/of veel bladoppervlak hebben.  Sla, bonen,
     pompoenen.  Ook sedumdaken worden genoemd als koelend.  Planten
