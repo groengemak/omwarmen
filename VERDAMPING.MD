@@ -80,5 +80,27 @@ constructies in klei werken beter als waterdamp wordt afgevoerd.  Dat
 kan een stuk minder geforceerd werken dan in een air conditioning unit.
 Desnoods met een zonneschoorsteen.
 
+Verdamping van 1 liter water onttrekt 2257 kJ aan de omgeving.  Bij
+constante druk (en veranderlijk volume) geldt Cp = 1,005 kJ/kg.K of,
+omdat rond kamertemperatuur de dichtheid van lucht 1,25 kg/m3 is,
+1,005 kJ/kg.K x 1,25 kg/m3 = 1,256 kJ/m3.K; die 2257 kJ kan een volume
+koelen van 40 ˚C tot 20 ˚C over 2257 kJ / 1,256 kJ/m3.K / 20 K = 44 m3
+lucht.  Een verdieping van 4,5m x 11m x 2,5m = 123 m3, dus het is meer
+dan een derde.  Drie verdiepingen moeten 8,4 liter water verdampen,
+en meer als er uitstroom naar buiten is.
 
+Ik overweeg een opstelling met koelelementen onder 2 ventilatieroosters,
+
+```
+     ==   ==
+      X   X
+
+    X   X   X
+
+      X   X
+```
+
+als die elk 2 liter water bevatten is dat 7 maal 2 liter is 14 liter.
+Bijvullen kan altijd nog, maar dit lijkt heel aardig te kloppen.  Het
+hangt er ook van af hoe snel alles opwarmt natuurlijk.
 
