@@ -33,7 +33,7 @@ die zo goed werkt in de heetste landen.
 
 De temperatuur uit heat pipes is geconcentreerd op de hoge temperatuur van
 alcoholverdamping, en dat komt ook vrij in de winter, alleen in kleinere
-hoeveelheden.  Dat betekent dat de afgevoerde warmte zo veel entropie bevat
+hoeveelheden.  Dat betekent dat de afgevoerde warmte zo weinig entropie bevat
 als maar mogelijk, terwijl een vlakkeplaatcollector als het ware voorgemengd
 is met een hoge hoeveelheid warmte.
 
@@ -80,7 +80,7 @@ warmte uit de zonneboiler toegevoegd hoeft te worden.
 
 Om Legionella tegen te gaan bestaan twee oplossingen: hoog opstoken van de
 temperatuur, of een hygiënewikkeling.  Dat laatste is veel efficiënter in de
-zin dat er minder entropie verspild wordt aan de noodzakelijk hoge temperatuur.
+zin dat er minder entropie hoeft te ontstaan voor de noodzakelijk hoge temperatuur.
 Hygiënewikkelingen spoelen goed door, en bij regelmatig gebruik hoopt zich er
 geen Legionella in de leidingen op.
 
