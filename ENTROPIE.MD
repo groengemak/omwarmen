@@ -88,7 +88,7 @@ Een verwarmingsunit is doorgaans ingebouwd.  Dat gaat waarschijnlijk beter
 werken dan een warmtepomp, die de benodigde temperaturen voor douchen eigenlijk
 niet goed kan leveren (de COP daalt dan sterk).
 
-**Keuze:** Boiler van 60 liter met een hygiënewikkeling en verwarming.
+**Keuze:** Boiler van 80 liter met een hygiënewikkeling en verwarming.
 
 
 ## Optimale vloerverwarming
