@@ -76,3 +76,13 @@
  * Sterk gebruik kunnen maken van de woning als zonnecollector; warmte blijft daarenboven goed hangen
  * Warmte lijkt heen en weer te gaan tussen vloerisolatie en IR-panelen aan plafond
 
+**Maart 2021: hele maand, wisselvallig met erg warme perioden:**
+
+ * Metertotalen gaan van 25255 kWh naar 25528 kWh, dus gebruik 273 kWh
+ * Jaargemiddeld/12 is 96 kWh, dus extra verbruik is 177 kWh
+ * KNMI meldt 6,4 ˚C gemiddeld over heel maart
+ * Binnen 17-18 ˚C dus overwon ik 11,1 ˚C gemiddeld
+ * Het "weerstandsnetwerk" naar buiten lekte dus 177 kWh / 31d / 11,1 ˚C = **0,514 kWh/kC/d**
+ * Tegen €0,11/kWh heeft dit €0,63/d gekost, de hele maand (31d) zal €19,47 hebben gekost
+ * Regelmatig gebruik kunnen maken van de woning als zonnecollector, ook rond 10 ˚C buiten
+
