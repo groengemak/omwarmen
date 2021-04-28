@@ -80,7 +80,7 @@ Als de condens wordt opgevangen en de volgende dag
 niet weer verdampt, dan blijft de lucht droger.  Dat
 draagt bij aan een minder klam gevoel.  Ook in de
 nacht zou dit helpen, ware het niet dat de lucht dan
-ook koel is en nog altijd volop warm.  We willen wel
+ook koel is en nog altijd 100% vochtig.  We willen wel
 minder zweten als het koeler is, dus het voelt wel
 minder drukkend.
 
