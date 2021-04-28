@@ -55,8 +55,19 @@ een infraroodstralingsmeter, dan verliezen we
 dus de afkoeling is dan het gevolg van een 48,8%
 hogere uitstraling dan terugkaatsing uit de hemel.
 
-Afkoelen gaat nu zelfs 13% sneller dan de opwarming
-in het gegeven rekenvoorbeeld.
+Afkoelen gaat nu dus 13% sneller (1,488 / 1,321)
+dan de opwarming in het gegeven rekenvoorbeeld.
+
+Meestal is de hemel kouder, zeker als de zon niet
+op fijnstof of waterdampt reflecteert.  Zelfs overdag
+is de hemel vaak -15 ˚C, meer naarmate de richting
+meer naar de zon neigt.  We verliezen dan
+(287,15 + 30)^4 / (287,15 - 15)^4 = 1,844
+dus de afkoeling is dan het gevolg van een 84,4%
+hogere uitstraling dan terugkaatsing uit de hemel.
+
+Afkoelen gaat nu zelfs 40% sneller (1,844 / 1,321)
+dan de opwarming in het gegeven rekenvoorbeeld.
 
 ### Extra: Condensatie
 
