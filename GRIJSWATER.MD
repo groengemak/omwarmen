@@ -71,6 +71,12 @@ kunt dan 50 * (30˚C - 10˚C) * 4200 J/kg.K = 100 * (30˚C - 20˚C) * 4200 J/kg.
 = 4.2 MJ aan warmte onttrekken.  Als je doorstoot tot hogere temperaturen dan
 is het aantrekkelijk om de hele 100 kg te gebruiken; ga je tot 40˚C dan kun je
 8,4 MJ onttrekken en ga je door tot 50˚C dan kun je 12,6 MJ onttrekken.
+Echter, het idee is
+[maximaal 30˚C te lozen](https://www.infomil.nl/onderwerpen/lucht-water/handboek-water/wetgeving/algemene-regels-lozingsroute-schema/zorgplicht/)
+op het riool, dus dit schaalt niet zo ver op.  Dit lijkt wel iets waar een
+overheid nuttige dingen over zou kunnen zeggen.  Het is ook iets wat met een
+vooropslagtank rustigaan kan afkoelen (of opwarmen) zonder de complexiteit
+van een diepe sonde.
 
 **Regenwater.**
 Regen stroomt ook het riool binnen, al gebeurt dat meestal buitenlangs.  Het
@@ -86,8 +92,8 @@ koud weer teruglevert.  Dat lijkt parasitair.  Echter, de aangeleverde
 temperatuur is niet verwarmd, maar gewoon de grondtemperatuur.  Diezelfde bron
 wordt ook weer gebruikt voor het gelijktrekken van de warmte.  Uiteindelijk
 is dit dus niet zo anders dan bodemenergie, alleen met reeds aanwezige
-infrastructuur als sonde.  Ik kan geen regels over minimale of maximale temperaturen
+infrastructuur als sonde.  Ik kan geen regels over minimale temperaturen
 of ijspercentages vinden, maar bij overmatige verwachtingen volgen die vast snel.
-Uiteindelijk trekt de grondtemperatuur alles naar 10˚C, maar dat kan zo lang duren
-dat verstoppingen ontstaan.  Rustigaan doen dus.
+Uiteindelijk trekt de grondtemperatuur alles naar 10˚C en loopt het door,
+maar dat kan zo lang duren dat verstoppingen ontstaan.  Rustigaan doen dus.
 
