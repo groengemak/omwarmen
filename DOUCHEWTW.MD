@@ -6,7 +6,8 @@
 > beton via vloerverwarming, dan is daarop dus ook impact waarneembaar.*
 
 Zonder Douche-WTW is een 160 liter boilervat even efficient als eentje
-van 80 liter met.  Simpele keuze dus.
+van 80 liter met.  Simpele keuze dus.  *Echter:* Zie GRIJSWATER.MD voor
+een actiever, en effectiever alternatief.
 
 Een bekend merk lijkt Q-Blue te zijn, met de
 [QB1-21](https://www.warmteservice.nl/Duurzaam/Warmteterugwinunit/Douche-WTW/Q-Blue-showersave-QB1-21-douchepijp-wtw-rendement-64%2C6%25-bij-flow-9%2C2L-min-2100mm/p/L05015)
