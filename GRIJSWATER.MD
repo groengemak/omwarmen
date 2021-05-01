@@ -122,3 +122,49 @@ of ijspercentages vinden, maar bij overmatige verwachtingen volgen die vast snel
 Uiteindelijk trekt de grondtemperatuur alles naar 10˚C en loopt het door,
 maar dat kan zo lang duren dat verstoppingen ontstaan.  Rustigaan doen dus.
 
+**Verdamping.**
+In plaats van warmte te onttrekken met een warmtepomp is het ook denkbaar om
+waterdamp te verdampen uit het grijze water.  De latente energie van waterdamp
+is 2265 kJ/kg, verlaagt de temperatuur bij de onttrekking om bij condensatie
+op een doeloppervlak diezelfde warmte over te dragen.  Om het bovenstaande
+"actieve" proces in deze vorm te gieten onttrekken we dus
+100 kg * 4200 J/kg.K * 20 K = 8,4 MJ door 8,4 MJ / 2254 kJ/kg = 3,7 kg water
+te verdampen.  Hiertoe wordt een onderdruk aangebracht, en ter condensatie wordt
+dan overdruk aangebracht.  Het condenswater keert terug in het grijze water,
+waardoor alleen deze latente energie verandert.  De lucht kan in een cyclus
+bewegen zoals dat ook gebeurt in een koelkast; de enige noodzaak is dat de
+tank met grijs water in die tijd afgesloten is (of heel hard zuigt).
+Feitelijk wordt hier het grijze water gebruikt op dezelfde manier als de
+vloeistof in een warmtepomp.  Dat gaat goed zolang daar geen eng spul tussen
+zit, zoals ammonia uit verschaalde urine.
+
+**Verdampingsberekeningen.**
+Het triple point van water (waar vaste, vloeibare en gasvormen samenkomen)
+zit op 0,01˚C en daaronder vindt sublimatie plaats -- ijs verdampt zonder
+tussenkomst van water.  De druk moet dan wel steeds lager worden om waterdamp
+af te voeren.  Condensatie vindt nog altijd plaats zoals voorheen, en dat
+vloeit terug naar het grijswaterdepot als vloeistof.  Uiteindelijk is het
+wel mogelijk om temperaturen onder het nulpunt te halen, met als gevolg de
+"hyperactieve" opbrengsten, maar het condenswater moet niet onder 0,01˚C
+worden gebracht voor het teruggekeerd is.  We hebben het over zeer lage
+vloeistofdruk, namelijk 612 Pa.  Voor verzadiging bij 0˚C heb je ongeveer
+25 kPa nodig, een kwart van de normale luchtdruk.  Let op, dat is een
+waterkolom van 7,5 meter!  Voor verzadiging bij 40˚C voor vloerverwarming
+is een druk nodig van 7,38 kPa of 30˚C bij 4,25 kPa; dat is onderdeel van
+een complete luchtdruk van 3 atmosfeer of 299 kPa voor 40˚C of een
+complete luchtdruk van 1.3/4 atmosfeer of 172 kPa voor 30˚C.  Wat hier heel
+duidelijk uit blijkt is dat er harder gecomprimeerd moet worden om een
+hogere temperatuur te bereiken -- het bekende probleem met warmtepompen,
+die in zulke gevallen een lagere CoP halen.  Het loont om zo weinig te
+doen als nodig is.  Daarbij hoort dan wel dat de warmte uit de bron
+getrokken moet zijn voordat de volgende batch zich aandient en er dus
+doorgespoeld moet worden; jammer als daarbij nog niet half bevroren is.
+Bij deze temperaturen is droge lucht 100% verzadigd met waterdamp bij
+4-10 g/kg.  Het soortelijk gewicht van lucht is rond 1,5 kg/m3, dus we
+hebben het over 6-15 g/m3.  Voor 8,4 MJ moest 3,7 kg water verdampen,
+daarvoor moet 247-617 m3 lucht worden verplaatst (zoals bij 1 atmosfeer).
+Dit is de eerste parameter die onbereikbaar is voor een koelkastmotor.
+Let op, het is ook mogelijk snelle luchtstromingen toe te passen om
+andere pompparameters te tweaken; met name is veel snellere verdamping
+mogelijk.
+
