@@ -21,9 +21,9 @@ of 700 Wh.  Aardig, maar niet spectaculair; het equivalent van 1 IR-paneel van
 die passief gebruik weinig nuttig maakt.
 
 **Actief.**
-Tweede poging.  Actieve warmteonttrekking met een warmtepomp.  In principe kunnen
+Tweede poging, actieve warmteonttrekking met een warmtepomp.  In principe kunnen
 we tot vlak boven 0˚C dalen en dan blijft het nog vloeibaar.  Dat kan met al het
-grijze water worden gedaan.  100 kg * 4200 J/kg.K * 20 K = 8.4 MJ = 2.3 kWh.
+grijze water worden gedaan.  100 kg * 4200 J/kg.K * 20 K = 8,4 MJ = 2,3 kWh.
 Dit is al een stuk interessanter; het maakt 2,9˚C verschil.  Daarbij zij opgemerkt
 dat het beter gemikt kan worden op koudere dagdelen, door het actieve effect is er
 minder haast om de warmte meteen in te zetten.  De hele dag is dus ongeveer het
@@ -31,8 +31,22 @@ dubbele te halen, alleen 's avonds zelfs meer.  Wat dit kan helpen doen is dag/n
 verschillen op te vangen.  We hebben dan wel een opslagtank van 100 liter nodig, en
 die moet wel goed geïsoleerd zijn.  Dat de temperatuur middelt doet er dan niet toe.
 
+**Dag/Nacht.**
+De temperatuur daalt 's nachts met 6˚C gemiddeld tijdens winter en herfst.
+Als we de 2,9˚C alleen 's nachts toepassen komen we tot ongeveer 5,8˚C, dus
+het meeste.  Daarbij is het nuttig op te merken dat wind bijdraagt aan verlies
+van warmte, en dat de verliezen 's nachts juist mee lijken te vallen.
+Bovendien is dit verschil in temperatuur binnen sowieso niet te voelen, de
+variatie in temperatuur wordt gedempt door isolatie (that's pretty much the
+point of it).  In elk geval lijkt actief gebruik van warmte in grijswater een
+goede manier om deze variaties op te vangen, en mogelijk nog iets extra van de
+afkoeling gedurende het etmaal op te vangen.  Het is op zichzelf niet genoeg
+om de allerergste nachtvorst tegen te gaan.  Voorbeeld toepassing: passief
+onttrekken van warmte gedurende de nacht, met aan het eind de schouders eronder
+door actief verder te onttrekken voor een aangenaam warme ruimte 's ochtends.
+
 **Hyperactief.**
-Kunnen we een ijswater afleveren?  Mogelijk kan ijs geen kwaad als het riool maar
+Kunnen we ook ijswater afleveren?  In principe kan ijs geen kwaad, zolang het riool
 niet verstopt raakt.  Als ongeveer de helft van het water bevriest dan is het nog
 weg te spoelen.  Bij de overgang tussen water van 0˚C naar ijs van 0˚C kan latente
 warmte worden onttrokken, 334 kJ/kg.  Als tot de helft gaan dan komt 167 kJ/kg
@@ -68,7 +82,7 @@ uitgevoerd wordt dus actief naverwarmd; warm water zou je mogelijk liever laten
 doorlopen.  Ga dus uit van dagelijks 50 kg op 10˚C of 100 kg op 20˚C; als je
 tot 30˚C verwarmt, dat redelijk lijkt, dan komt dat op hetzelfde neer.  Je
 kunt dan 50 * (30˚C - 10˚C) * 4200 J/kg.K = 100 * (30˚C - 20˚C) * 4200 J/kg.K
-= 4.2 MJ aan warmte onttrekken.  Als je doorstoot tot hogere temperaturen dan
+= 4,2 MJ aan warmte onttrekken.  Als je doorstoot tot hogere temperaturen dan
 is het aantrekkelijk om de hele 100 kg te gebruiken; ga je tot 40˚C dan kun je
 8,4 MJ onttrekken en ga je door tot 50˚C dan kun je 12,6 MJ onttrekken.
 Echter, het idee is
@@ -77,6 +91,16 @@ op het riool, dus dit schaalt niet zo ver op.  Dit lijkt wel iets waar een
 overheid nuttige dingen over zou kunnen zeggen.  Het is ook iets wat met een
 vooropslagtank rustigaan kan afkoelen (of opwarmen) zonder de complexiteit
 van een diepe sonde.
+
+**Ontvochten.**
+Condensatie is een goede manier om water te verwarmen.  Dat hoeft niet door
+op het doel neer te slaan, maar kan ook via het grijswaterdepot dat nog
+warmte moet afgeven.  Het lijkt dus slim om vooral de ventilatie van de douche
+langs het grijswaterdepot te voeren, waar de damp dan neer kan slaan.
+Ook een afzuigkap vangt veel warme lucht op, van dampende pannen en de
+hete vuren waarvoor een kok zich gesteld voelt.  Dat neer doen slaan op het
+grijswaterdepot lijkt ook handig.  Ook fijn dat daar geregeld warm water met
+zeep doorheen spoelt trouwens.
 
 **Regenwater.**
 Regen stroomt ook het riool binnen, al gebeurt dat meestal buitenlangs.  Het
