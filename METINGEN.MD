@@ -82,7 +82,17 @@
  * Jaargemiddeld/12 is 96 kWh, dus extra verbruik is 177 kWh
  * KNMI meldt 6,4 ˚C gemiddeld over heel maart
  * Binnen 17-18 ˚C dus overwon ik 11,1 ˚C gemiddeld
- * Het "weerstandsnetwerk" naar buiten lekte dus 177 kWh / 31d / 11,1 ˚C = **0,514 kWh/kC/d**
+ * Het "weerstandsnetwerk" naar buiten lekte dus 177 kWh / 31d / 11,1 ˚C = **0,514 kWh/˚C/d**
  * Tegen €0,11/kWh heeft dit €0,63/d gekost, de hele maand (31d) zal €19,47 hebben gekost
  * Regelmatig gebruik kunnen maken van de woning als zonnecollector, ook rond 10 ˚C buiten
+
+**April 2021: hele maand, erg warm maar ook relatief veel koudere tijden:**
+
+ * Metertotalen gaan van 25528 kWh naar 25733 kWh, dus gebruik 205 kWh
+ * Jaargemiddeld/12 is 96 kWh, dus extra verbruik is 109 kWh
+ * KNMI meldt 6,7 ˚C gemiddeld over heel april (normaal zou dat 9,8 ˚C hebben moeten zijn)
+ * Binnen 17-18 ˚C dus overwon ik 10,8 ˚C gemiddeld
+ * Het "weerstandsnetwerk" naar buiten lekte dus 109 kWh / 30d / 10,8 ˚C = **0,336 kWh/˚C/d**
+ * Tegen €0,11/kWh heeft dit €0,40/d gekost, de hele maand (30d) zal €11,99 hebben gekost
+ * Ik heb steeds vaker profijt van invallend zonlicht, dat verklaart de lagere waarde
 
