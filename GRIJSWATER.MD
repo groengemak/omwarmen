@@ -17,8 +17,8 @@ Kunnen we de warmte van het warme water passief gebruiken in vloerverwarming?
 Die overwint 30˚C - 18˚C = 12˚C en biedt dan 50 kg * 4200 J/kg.K * 12 K = 2520 kJ,
 of 700 Wh.  Aardig, maar niet spectaculair; het equivalent van 1 IR-paneel van
 700 Watt dat een uur brandt, daar wordt het huis niet heel warm van; uitgaande van
-0,8 kWh/˚C/d warmt het 0,9˚C bij. Een oorzaak is de relatief hoge afgiftetemperatuur,
-die passief gebruik weinig nuttig maakt.
+0,8 kWh/˚C/d warmt het de woning 0,9˚C verder op. Een oorzaak is de relatief hoge
+afgiftetemperatuur, die passief gebruik weinig nuttig maakt.
 
 **Actief.**
 Tweede poging, actieve warmteonttrekking met een warmtepomp.  In principe kunnen
@@ -49,12 +49,13 @@ door actief verder te onttrekken voor een aangenaam warme ruimte 's ochtends.
 Kunnen we ook ijswater afleveren?  In principe kan ijs geen kwaad, zolang het riool
 niet verstopt raakt.  Als ongeveer de helft van het water bevriest dan is het nog
 weg te spoelen.  Bij de overgang tussen water van 0˚C naar ijs van 0˚C kan latente
-warmte worden onttrokken, 334 kJ/kg.  Als tot de helft gaan dan komt 167 kJ/kg
+warmte worden onttrokken, 334 kJ/kg.  Als we tot de helft gaan dan komt 167 kJ/kg
 beschikbaar.  Dagelijks is dat 100 kg * 167 kJ/kg = 16,7 MJ = 4,6 kWh.  Goed voor
 5,8˚C extra warmte in huis.  Samen met de 2,9˚C uit "normale" actieve onttrekking
 zit je dan op 8,7˚C aan extra verwarming.  En al wat daarvoor nodig lijkt, is te
 blijven roeren, zoals in een ijsmachine, om kristalvorming te voorkomen tijdens
-het onttrekken van warmte.
+het onttrekken van warmte (of, praktischer, "afromen" van de bovenkant van een
+reservoir met een soort schoepenrad).
 
 **Douchen.**
 Of je op deze energie zou kunnen douchen en wassen en afwassen is niet zondermeer
@@ -63,10 +64,10 @@ Echter, het stukje dat hyperactief is, en ook het gebied van de binnenkomende
 temperatuur rond 10˚C, vormen een redelijke basis.  Actief kan dus maar de helft
 worden verwacht, dus 4,2 MJ en de hyperactieve toevoeging van 16,7 MJ mag helemaal
 worden aangenomen.  Samen dus 20,9 MJ waarin 11 MJ voor douchen inderdaad voorkomt.
-De resterende 9,9 MJ = 2,8 kWh is dan goed voor verwarming met 3,4˚C extra.
+De resterende 9,9 MJ = 2,8 kWh is dan goed voor vloerverwarming met 3,4˚C extra.
 Het blijft een vraag of een warmtepomp voldoende temperatuur en doorstroom biedt
-voor douchen of een doucheboiler.  Duidelijk is wel dat er veel meer te winnen
-is dan met een Douche-WTW, die ongeveer de helft van de warmte passief terugwint.
+voor douchen of doucheboiler.  Duidelijk is wel dat er veel meer te winnen is dan
+met een Douche-WTW, die ongeveer de helft van de warmte passief terugwint.
 
 **Zonvrij.**
 Vooral in tijden dat de zon niet schijnt kan deze energie heel veel toevoegen.
