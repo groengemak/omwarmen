@@ -45,8 +45,8 @@
 **Februari 2021: 1..6 feb, vlak voor een stevige koudeperiode:**
 
   * Verbruik 33 kWh, jaargemiddeld\*5d/1y = 16 kWh, extra is dus 17 kWh *met nogal wat onzekerheid*
-  * KNMI meldt gemiddeld 5,6˚C en binnen had ik het 16-17˚C
-  * het "weerstandsnetwerk" naar buiten lekte dus 17 kWh/5d / 10,9˚C = 0,31 kWh/˚C/d
+  * KNMI meldt gemiddeld 5,6˚C en binnen had ik het 16-17˚C, dus ik overwon 10,9˚C
+  * het "weerstandsnetwerk" naar buiten lekte dus 17 kWh / 5d / 10,9˚C = **0,31 kWh/˚C/d**
   * (de berekeningen lijken nauwkeuriger dan ze zijn met zo'n korte meetperiode)
 
 **Februari 2021: 6..14 feb, een pittige vorstperiode met veel sneeuw:**
