@@ -22,12 +22,14 @@ Return On Investment:
   * Totale kosten 6000
   * Jaarlijkse besparing 964
   * Terugverdientijd 6 jaar
+  * [Effectieve rente](https://gitlab.com/-/snippets/2118508) 12%
 
 Isolatiebudget:
 
   * Extra kosten 1000
   * Besparing per jaar 150
   * Terugverdientijd 7 jaar
+  * [Effectieve rente](https://gitlab.com/-/snippets/2118508) 10%
 
 Gemiddeld, aldus Urgenda, besteedt een huishouden de komende 15 jaar
 zo'n 35000 aan energie, en dat kan dus ingezet worden aan het begin.
