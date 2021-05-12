@@ -248,12 +248,28 @@ bijgehouden.  Dit versterkt ook het geloof dat het gebruik van
 zonnecollectoren met de betonvloer als warmteopslag goed zal uitpakken.
 Met name in ruimtes op het noorden, die minder zon opvangen.
 
+Met name in de **overgangsperiode** van lente en herfst werkt de
+balans wel anders.  Dan blijft infraroodlicht hangen maar koelt de
+lucht sneller af.  De oppervlaktes trekken wel luchtwarmte uit het
+infrarode licht, maar de lucht wordt toch relatief koel.  Als je
+dan puur infrarode thermostaten gebruikt dan kan dat onaangenaam
+worden.  Gebruik dus een mix met mechanische of NTC-gebaseerde
+thermostaten.  Ook is dit een punt waar vloerverwarming iets
+bijdraagt, omdat dit voornamelijk lucht verwarmt.  Het is net bij
+veel zonnestraling dat dit bruikbaar is, en ook handig is.  Een
+hint dat de lucht koel is, is dat je een trui aan wilt terwijl
+de infrarode thermostaat zegt dat het (bijvoorbeeld) 20 ˚C is.
+De isolatie van de trui houdt de koelere lucht buiten en compenseert
+daarmee voor de veranderde balans tussen straling en luchtwarmte.
+
 We hebben een **pittige winterweek** gehad van 6-14 februari 2021, met
 temperaturen rond -5 ˚C en gevoelstemperaturen zo laag als -15 ˚C.
 Overal lag een dik pak van 10-30 cm sneeuw, en we konder schaatsen
 op natuurijs.  Ook deze periode is moeiteloos doorlopen met een
 aangenaam constante binnentemperatuur, veel prettiger dan wat ik uit
 het verleden kende met warmtenet en radiatoren in dezelfde woning.
+Anders dan in de overgangsperiode draaiden de infraroodpanelen
+uren per dag en zorgden daarmee ook voor een stuk luchtverwarming.
 Precies zoals verwacht resulteerde een verdubbeling van het te overwinnen
 temperatuursverschil met buiten in een verdubbeling van de "aan" tijd
 van de panelen en een verdubbeling van het verbruikte vermogen.  Zie
@@ -264,7 +280,9 @@ zoals aangenomen, waardoor het in de woonkamer op het zuiden
 1-2 ˚C warmer werd dan op de thermostaat ingesteld.  De verlenging
 hiervan naar de noordkant via zonnecollectoren lijkt inderdaad slim,
 mits die goed rechtop staan en dus grotendeels sneeuwvrij zijn of
-warm genoeg worden om de sneeuw te doen smelten.
+warm genoeg worden om de sneeuw te doen smelten.  Dit wordt des
+te meer het geval als 's avonds bijverwarmd moet worden, als de
+lucht afkoelt.
 
 ## Waarnemingen: Thermostaten
 
@@ -324,6 +342,19 @@ te schakelen dan die waarbij je uitschakelt.  Als dit echter de enige
 energie is die een mechanische omschakeling oplevert dan zijn de variaties
 te groot om aangenaam te zijn.  Elektronische sensoren worden versterkt,
 waardoor ze gevoeliger kunnen zijn.
+
+De beste oplossing is een **combinatie van thermostaten**, met infrarode
+rond primaire zones, en bij secondaire zones een mechanische, of misschien
+een NTC-gebaseerde, die dan vooral reageert op luchttemperatuur.  Dit kan
+helpen om de balans te bewaren tussen straling en luchttemperatuur.
+Het is nog handiger als de tragere interactie met de luchttemperatuur
+aansluit op vloerverwarming, die deze gelijkmatiger afgeeft, en daarmee
+transport van warmte vermijdt.  Je hebt dan afzonderlijke thermostaten
+voor vloerverwarming en infrarood.  Wat ook kan is de vloer toe te staan
+wat warmer te worden dan infrarood zou doen, om zonnecollectorwarmte
+kwijt te raken wanneer die er is, en wanneer dit toekomstig stoken van
+infraroodwarmte te vermijden.  Deze regeling kan op de weersvoorspelling
+inspelen, terwijl infrarood dan voor snelle correcties dient.
 
 De vermogens van een infraroodpaneel zijn hoog, en **schakelen met relais**
 is welhaast nodig.  De meeste thermostaten zijn gemaakt om een pomp aan
