@@ -102,7 +102,7 @@ lucht die langs een groot vochtig oppervlak stroomt,
 bijvoorbeeld een groot en poreus stuk klei.
 
 
-### Persoonlijke Gletcher
+## Persoonlijke Gletcher
 
 Een ijskelder (of een persoonlijke gletcher, die onder je
 voeten wegsmelt) kan worden gevuld met ijs, zelfs al is dat

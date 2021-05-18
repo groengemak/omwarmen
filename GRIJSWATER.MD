@@ -179,5 +179,5 @@ voorkomen dat meer dan een deel bevriest.  Zo houd je het ijs op
 0˚C, wat in het riool geen bevriezing kan geven, hooguit koelt
 het er af (in combinatie met andere stromen, inclusief WC-water).
 Wat ook kan is er een
-[ijsput](KOELEN.MD)
+[persoonlijke gletcher](KOELEN.MD)
 mee te vullen.
