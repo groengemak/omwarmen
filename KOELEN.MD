@@ -139,11 +139,28 @@ In een half jaar verliezen we dan
 180 d * 24 h/d * 3600 s/h * 200 J/s = 3 GJ.
 *Het is wel duidelijk dat dit niet werkt.*
 
+Opnieuw.  We metselen met baksteen en hebben dan een lambda
+van 0,4 W/m.K dus verlies je 4 W/K over 10 J dus 40 W.  In
+een half jaar verlies je dan
+180 d * 24 h/d * 3600 s/h * 40 J/s = 0,6 GJ ofwel 60% van de
+opslag.  *Wel duur, een bakstenen muur van een meter.*
+De verhouding tussen volume en oppervlakte is ongunstig;
+De kleine hoeveelheid ijs vraagt dus om betere isolatie.
+
 Opnieuw.  We isoleren met 2,5 m2.K/W ofwel 0,4 W/m2.K
 en kijken weer naar 10 m2 en een verschil van 10 K.
 Dan verliezen we 40 W, of over een half jaar
 180 d * 24 h/d * 3600 s/h * 40 J/s = 0,6 GJ ofwel 60% van
 de opslag.  *Het begint er een beetje op te lijken.*
+
+Op zich zijn hogere waardes haalbaar, bijvoorbeeld met
+[isobooster T5](https://isoboosterspecialist.nl/product/isobooster-t5-12500mm-x-1200mm/)
+kom je op 4,6 m2.K/W of 0,217 W/m2.K en dan verlies je
+over 10 m2 en 10 J dus 21,7 W, of over een half jaar
+180 d * 24 h/d * 3600 s/h * 21,7 J/s = 0,3 GJ of 30% van
+de opslag.  Dit is een concrete optie met een flink deel
+over, en wel 70% van de ideale 1 GJ over, of 700 MJ of
+200 kWh aan passieve vloerkoeling.
 
 Vroeger werden de
 [ijskelders](https://nl.wikipedia.org/wiki/IJskelder) geconstrueerd
@@ -155,8 +172,9 @@ Dit idee is een variant waarbij
 
   * Aanvoer van het ijs automatisch verloopt door het afromen van grijs water;
   * Het ijs niet gehakt hoeft te worden maar vooral doorgevoerd water koelt;
-  * Dampen afgevoerd moeten worden naar het riool;
-  * Het ijs op 0˚C blijft en dus niet aan elkaar vast zou moeten vriezen;
-  * Het smeltwater weer terug moet naar grijs water; en dat is iets lastiger!
+  * Dampen en gassen die vrijkomen moeten afgevoerd worden naar het riool;
+  * Aanvoerlucht kan niet over het ijs stromen, maar wel vlakbij koelen;
+  * Het ijs blijft op 0˚C en zou dus niet aan elkaar vast zou moeten vriezen;
+  * Smeltwater moet terug naar grijs water; dat was gemakkelijker met natuurijs!
 
 
