@@ -102,3 +102,61 @@ lucht die langs een groot vochtig oppervlak stroomt,
 bijvoorbeeld een groot en poreus stuk klei.
 
 
+### Persoonlijke Gletcher
+
+Een ijskelder (of een persoonlijke gletcher, die onder je
+voeten wegsmelt) kan worden gevuld met ijs, zelfs al is dat
+maar ijs van 0 ˚C.  Dat kan bijvoorbeeld uit het
+[grijze water](GRIJSWATER.MD)
+ontstaan als daarin een warmtewisselaar hangt.
+Het is dan wel nodig het smeltwater ook weer als
+grijswater af te voeren.
+
+De vorming van ijs is normaal in de 60 koudste dagen
+(december, januari) want juist dan is grijs water een goede
+bron van warmte, met een hoge COP tot gevolg.  Per persoon
+komt daar bijvoorbeeld 50 kg ijs vrij, over de hele periode
+is dat 3000 kg of 3000 liter.
+
+Zelfs op 0˚C smelt dit ijs niet zomaar, het moet een
+latente warmte overwinnen van 334 kJ/kg, dus in 3000 kg
+is dat 1 GJ aan warmte die onttrokken kan worden aan
+bijvoorbeeld doorstromend water.  Dat doorstromende water
+heeft geen anti-vries middel nodig doordat menging van
+warmtes toch nooit "doorschiet".  Het is zelfs denkbaar
+om hiermee leidingen tegen vorst te beschutten; maar dan
+wel met water, niet met het ijs.
+
+De verliezen zijn veel kleiner dan deze afvoer.  Denk aan
+een buitenoppervlak van 10 m2, en stel dat dit de grond
+op 10 ˚C is zonder enige vorm van isolatie of weerstand,
+dan smelt de buitenkant met een tempo dat enkel afhangt
+van de warmtegeleiding van grond op 2,0 W/m.K en over
+10 m2 en een dikte van 1 m is dat
+2,0 W/m.K * 10 m2 / 1 m = 20 W/K en bij het
+verschil van 10 K wordt dat 20 W/K * 10 K = 200 W.
+In een half jaar verliezen we dan
+180 d * 24 h/d * 3600 s/h * 200 J/s = 3 GJ.
+*Het is wel duidelijk dat dit niet werkt.*
+
+Opnieuw.  We isoleren met 2,5 m2.K/W ofwel 0,4 W/m2.K
+en kijken weer naar 10 m2 en een verschil van 10 K.
+Dan verliezen we 40 W, of over een half jaar
+180 d * 24 h/d * 3600 s/h * 40 J/s = 0,6 GJ ofwel 60% van
+de opslag.  *Het begint er een beetje op te lijken.*
+
+Vroeger werden de
+[ijskelders](https://nl.wikipedia.org/wiki/IJskelder) geconstrueerd
+als diepe structuren (zeg 5 meter) met een tapse bovenkant die met
+isolatiemateriaal bedekt werd, een ingang op het noorden had en verder
+geen zonlicht liet invallen.  Vaak opgemetseld uit baksteen.
+
+Dit idee is een variant waarbij
+
+  * Aanvoer van het ijs automatisch verloopt door het afromen van grijs water;
+  * Het ijs niet gehakt hoeft te worden maar vooral doorgevoerd water koelt;
+  * Dampen afgevoerd moeten worden naar het riool;
+  * Het ijs op 0˚C blijft en dus niet aan elkaar vast zou moeten vriezen;
+  * Het smeltwater weer terug moet naar grijs water; en dat is iets lastiger!
+
+

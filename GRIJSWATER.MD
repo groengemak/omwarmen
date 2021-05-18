@@ -168,3 +168,16 @@ Let op, het is ook mogelijk snelle luchtstromingen toe te passen om
 andere pompparameters te tweaken; met name is veel snellere verdamping
 mogelijk.
 
+**Warmtewisselaar.**
+Een mogelijke warmtewisselaar voor dit werk is de
+[Solar Box 2](https://www.tdenergie.nl/webshop/product/152829)
+met vermoedelijk maar 1 paneel.  Dat paneel hang je in een bak van
+ongeveer 2,0m x 0,8m x 0,1m voor een inhoud van 160 liter, ergens
+in de buurt van de normale menging van grijs met zwart water.
+Het ijs dien je "af te romen" met een soort schuiver, en je moet
+voorkomen dat meer dan een deel bevriest.  Zo houd je het ijs op
+0˚C, wat in het riool geen bevriezing kan geven, hooguit koelt
+het er af (in combinatie met andere stromen, inclusief WC-water).
+Wat ook kan is er een
+[ijsput](KOELEN.MD)
+mee te vullen.
