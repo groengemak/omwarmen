@@ -179,7 +179,11 @@ verkrijgbaar voor een paar dubbeltjes per kilo.
 Emmers zie je minder vaak, maar dat
 [kost ongeveer](https://www.nederlandsezouthandel.nl/ureum-dooikorrels/)
 €140 ex BTW, dus dat is €2,12/kg en voor 11 kg betaal je dan
-€23,30.  (Verder is het een absurd idee straten te ontdooien met
+€23,30.  Of per
+[5 zakken van 25 kg](https://www.strooizoutgigant.nl/dooikorrels/5-zakken-dooikorrels)
+betaal je €159, dus dat is €1,27/kg en voor 11 kg betaal je
+dan €13,99.
+(Verder is het een absurd idee straten te ontdooien met
 ureum, want het vervalt dan op de meest onzalige manier en
 doet dus NOx in de bodem wegsijpelen!  En dit is nog altijd
 een afhankelijkheid van aardgas, alleen dan in een vaste
