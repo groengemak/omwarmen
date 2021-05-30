@@ -137,6 +137,11 @@ ingezet in de maanden januari en februari dan is dat gemiddeld
 10 kWh/d -- en uiteraard is dat het budget dat infraroodpanelen
 nodig hebben om 13 ˚C temperatuursverschil te overwinnen.
 
+**Gasvrij.**
+De [energie in aardgas](https://www.energieconsultant.nl/energiemarkt/energie-berekeningen-uit-de-praktijk/omrekening-van-m3-n-naar-kwh/)
+is ongeveer 35,17 MJ/m3, dus de 2,27 GJ die een persoon
+jaarlijks opwekt staat ongeveer gelijk met
+2270 / 35,17 = 64,5 m3 aardgas.
 
 
 ## Warmtebatterij
@@ -153,4 +158,19 @@ voor het drogen van urine.  In een jaar produceer je ongeveer
 11 kg / 1323 kg/m3 = 8,3 dm3 = 8,3 liter urea per jaar.  Nog
 geen emmer vol dus.
 
+Overigens, Ureum is een bekende meststof en wordt in
+pure vorm als 46-0-0 NPK-kunstmest verkocht (46% van het gewicht
+bestaat uit stikstof, en er is geen fosfor of kalium) en is
+prima
+[in bulk](https://dutch.alibaba.com/Popular/CN_urea-n46-granular-fertilizer-Trade.html)
+verkrijgbaar voor een paar dubbeltjes per kilo.
+Emmers zie je minder vaak, maar dat
+[kost ongeveer](https://www.nederlandsezouthandel.nl/ureum-dooikorrels/)
+€140 ex BTW, dus dat is €2,12/kg en voor 11 kg betaal je dan
+€23,30.  Gezamenlijk ingekocht kun je veel meer besparen.
+(Overigens is het een absurd idee straten te ontdooien met
+ureum, want het vervalt dan op de meest onzalige manier en
+doet dus NOx in de bodem wegsijpelen!  En dit is nog altijd
+een afhankelijkheid van aardgas, alleen dan in een vaste
+vorm omgezet.)
 
