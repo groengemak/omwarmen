@@ -71,7 +71,9 @@ energie met een brandstofcel.
 
 Hier wordt een
 [rechtstreekse brandstofcel voor ureum](https://strathprints.strath.ac.uk/34081/1/TAOb924786f.pdf)
-gemaakt met de volgende reactie verhoudingen:
+gemaakt volgens een
+[vastgelegde procedure](http://www.rsc.org/suppdata/EE/b9/b924786f/b924786f.pdf)
+waarmee de volgende reactieverhoudingen werden bereikt:
 
 ```
 O₂ + 2 H₂O + 4 e⁻  -->  4 OH⁻                    [3x]
