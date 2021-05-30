@@ -11,7 +11,7 @@ een NH₂ koppel.  Het is een opslagvorm van waterstof dat met
 [electrolyse](https://suttonfruit.com/pics/urea_electrolysis.pdf)
 vrij kan komen, maar ook directe
 [brandstofcellen voor ureum](https://strathprints.strath.ac.uk/34081/1/TAOb924786f.pdf)
-zijn in ontwikkeling.  Urea lost gemakkelijk op in water, nadat
+zijn in ontwikkeling.  Ureum lost gemakkelijk op in water, nadat
 het in droge vorm stabiel kan worden bewaard.
 
 
@@ -44,7 +44,7 @@ Hierbij komt de stikstof vrij als NO, ook wel benoemd
 als NOx wanneer het wordt besproken als
 gezondheidsschadelijke stof.
 
-### Urea naar waterstof
+### Ureum naar waterstof
 
 [Electrolyse van ureum opgelost in water](https://suttonfruit.com/pics/urea_electrolysis.pdf)
 onttrekt waterstof uit water met ureum bij een veel
@@ -149,6 +149,8 @@ in een brandstofel.
 De berekening van de hoeveelheden hierboven geven aan dat een
 persoon een goede aanvulling is op een collectie heat pipes,
 en diezelfde heat pipes zorgen bij het overschot van warmte
-voor het drogen van urine.
+voor het drogen van urine.  In een jaar produceer je ongeveer
+11 kg / 1323 kg/m3 = 8,3 dm3 = 8,3 liter urea per jaar.  Nog
+geen emmer vol dus.
 
 
