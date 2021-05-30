@@ -178,6 +178,20 @@ Het ijs dien je "af te romen" met een soort schuiver, en je moet
 voorkomen dat meer dan een deel bevriest.  Zo houd je het ijs op
 0˚C, wat in het riool geen bevriezing kan geven, hooguit koelt
 het er af (in combinatie met andere stromen, inclusief WC-water).
+
+**Gletcher.**
 Wat ook kan is er een
 [persoonlijke gletcher](KOELEN.MD)
 mee te vullen.
+In dit geval kunnen we alles bevriezen en is de hierboven bij
+hyperactief werk overgelaten helft ook te gebruiken; dat betekent
+dat tweemaal 5,8 ˚C dus 11,6 ˚C aan de woning toegevoegd kan worden
+bovenop de 2,9 ˚C uit normale onttrekking wordt dat 14,5 ˚C.
+De [koudste dag van het jaar](https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2018/minder-koude-dagen/)
+Kan rond -14,9 ˚C uitkomen, dus het grijswater van één persoon
+houdt het huis niet warm, maar juist het hebben van een buffer
+in de vorm van een gletcher maakt het mogelijk te middelen.  Een
+[gemiddelde winterdag is 3 ˚C](https://www.knmi.nl/klimaat-viewer/kaarten/temperatuur/gemiddelde-temperatuur/winter/Periode_1991-2020),
+en dat opgeteld brengt 17,5 ˚C, bijna al kamertemperatuur.  En een
+persoonlijke gletcher kan opgeschaald worden zover als gewenst.
+
