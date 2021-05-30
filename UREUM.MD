@@ -148,7 +148,7 @@ jaarlijks opwekt staat ongeveer gelijk met
 transportvorm voor aardgas, maar er is onderzoek gaande naar
 [ureum uit zon en wind](https://dutch.alibaba.com/Popular/CN_urea-n46-granular-fertilizer-Trade.html)
 en dat kan in principe: CO(NH₂)₂ zou in elkaar gepuzzeld
-moeten kunnen worden met CO₂, NH₂ en H₂O, feitelijk in de
+moeten kunnen worden met CO₂, N₂ en H₂O, feitelijk in de
 omgekeerde richting bewegend als de verbruiksprocessen.
 Misschien dopen we de gasleiding ooit om naar de
 [ureter](https://nl.wikipedia.org/wiki/Ureter) van elke
