@@ -122,8 +122,8 @@ zal een concentraat ontstaan, als een witte massa.
 **Warmte.**
 Bij stookkosten van 0,78 kWh/˚C/d ofwel 2,81 MJ/˚C/d kun je met
 2,27 GJ dus 808 ˚C.d (graad-dagen) stoken.  Bijvoorbeeld in de
-62 moeilijke dagen qua zon in december en januari, zo'n 60 dagen
-lang, kan gemiddeld 13 ˚C worden overwonnen.  In werkelijkheid is het
+62 moeilijke dagen qua zon in december en januari,
+kan gemiddeld 13 ˚C worden overwonnen.  In werkelijkheid is het
 [januarigemiddelde 2,75 ˚C](https://www.knmi.nl/klimaat-viewer/kaarten/temperatuur/gemiddelde-temperatuur/januari/Periode_1991-2020)
 en het
 [decembergemiddelde 3,25 ˚C](https://www.knmi.nl/klimaat-viewer/kaarten/temperatuur/gemiddelde-temperatuur/december/Periode_1991-2020)
@@ -138,7 +138,8 @@ route om te overwegen.  2,27 GJ/y komt neer op 630 kWh/y, dus
 duidelijk minder dan zonnecellen leveren, maar als het wordt
 ingezet in de maanden januari en februari dan is dat gemiddeld
 10 kWh/d -- en uiteraard is dat het budget dat infraroodpanelen
-nodig hebben om 13 ˚C temperatuursverschil te overwinnen.
+nodig hebben om het eerder gevonden 13 ˚C temperatuursverschil
+te overwinnen.
 
 **Gasvrij.**
 De [energie in aardgas](https://www.energieconsultant.nl/energiemarkt/energie-berekeningen-uit-de-praktijk/omrekening-van-m3-n-naar-kwh/)
