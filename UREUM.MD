@@ -100,11 +100,12 @@ er een soort HR-ketel voor nodig.
 
 **Onderstaande berekening is een ruwe schatting:**
 
-Als je jaarlijks energie uitplassen als in 16 kg waterstof, dan levert
-verbranding ongeveer [251,6 kJ/mol of 141,83 MJ/kg] zit je, als je ruw
-rekent (temperaturen en aggregatietoestanden negerend), op ongeveer
+Als je jaarlijks energie uitplast zoals in 16 kg waterstof, dan win je
+[251,6 kJ/mol of 141,83 MJ/kg](https://www.quora.com/How-much-energy-is-produced-when-one-mole-hydrogen-is-burnt?share=1)
+uit verbranding en zit je, als je ruw rekent
+(temperaturen en aggregatietoestanden negerend), op ongeveer
 16 kg/y * 141,83 MJ/kg = 2,27 GJ/y -- een flinke hoeveelheid energie
-dus.  Het water komt vaak als stoom vrij, dus daar ik ook nog de
+dus.  Het water komt vaak als stoom vrij, dus daar is ook nog de
 (erg hoge) latente energie van waterdamp uit te winnen, net als in
 een HR-ketel, vooral ook als het bestemd is voor een vloerverwarming
 die niet verder stijgt dan 40 ˚C.
