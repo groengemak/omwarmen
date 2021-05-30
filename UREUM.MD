@@ -141,7 +141,15 @@ nodig hebben om 13 ˚C temperatuursverschil te overwinnen.
 De [energie in aardgas](https://www.energieconsultant.nl/energiemarkt/energie-berekeningen-uit-de-praktijk/omrekening-van-m3-n-naar-kwh/)
 is ongeveer 35,17 MJ/m3, dus de 2,27 GJ die een persoon
 jaarlijks opwekt staat ongeveer gelijk met
-2270 / 35,17 = 64,5 m3 aardgas.
+2270 / 35,17 = 64,5 m3 aardgas.  Op het moment is dat een
+transportvorm voor aardgas, maar er is onderzoek gaande naar
+[ureum uit zon en wind](https://dutch.alibaba.com/Popular/CN_urea-n46-granular-fertilizer-Trade.html)
+en dat kan in principe: CO(NH₂)₂ zou in elkaar gepuzzeld
+moeten kunnen worden met CO₂, NH₂ en H₂O, feitelijk in de
+omgekeerde richting bewegend als de verbruiksprocessen.
+Misschien dopen we de gasleiding ooit om naar de
+[ureter](https://nl.wikipedia.org/wiki/Ureter) van elke
+woning!
 
 
 ## Warmtebatterij
@@ -167,8 +175,7 @@ verkrijgbaar voor een paar dubbeltjes per kilo.
 Emmers zie je minder vaak, maar dat
 [kost ongeveer](https://www.nederlandsezouthandel.nl/ureum-dooikorrels/)
 €140 ex BTW, dus dat is €2,12/kg en voor 11 kg betaal je dan
-€23,30.  Gezamenlijk ingekocht kun je veel meer besparen.
-(Overigens is het een absurd idee straten te ontdooien met
+€23,30.  (Verder is het een absurd idee straten te ontdooien met
 ureum, want het vervalt dan op de meest onzalige manier en
 doet dus NOx in de bodem wegsijpelen!  En dit is nog altijd
 een afhankelijkheid van aardgas, alleen dan in een vaste
