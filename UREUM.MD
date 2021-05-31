@@ -205,3 +205,60 @@ doet dus NOx in de bodem wegsijpelen!  En dit is nog altijd
 een afhankelijkheid van aardgas, alleen dan in een vaste
 vorm omgezet.)
 
+
+## Productie van Ureum
+
+**Chemisch.**
+Het eerste chemische proces ooit schijnt het
+[productieproces van ureum](https://chemicalengineeringworld.com/urea-manufacturing-process/)
+geweest te zijn.  Het doorloopt 2 stappen,
+
+ 1. ammoniak + kooldioxyde --> ammoniumcarbamaat
+ 2. ammoniumcarbamaat --> water + ureum
+
+Het eerste proces voert de druk en temperatuur op
+om de reactie te laten plaatsvinden; de druk wordt
+dan geleidelijk ontlast om de reactie te doen voltooien;
+vervolgens wordt gefiltreerd en het resultaat is een
+wateroplossing die in een koeltoeren neerregent, tegen
+een luchtstroom in.  Onder aangekomen is het dan droog.
+Dit is het hedendaagse in bulk verkochte kunstmest.
+
+**Solar.**
+Het kan ook moeilijker, en dat is beter.  Er zijn
+[ideeën voor processen](https://www.pv-magazine.com/2021/05/20/hybrid-wind-solar-could-make-green-ammonia-cost-competitive-in-niche-markets-by-2030/)
+die
+[ammoniak maken met zon en wind](https://www.energy.gov/sites/prod/files/2019/04/f61/CSP%20Summit2019%20SNL%20Ambrosini%20STAP.pdf).  Nuttig en interessant, maar wel gebaseerd op hele
+hete zonneovens.
+
+**Plantaardig.**
+Nog moeilijker en nog beter zou het zijn
+als iets gedaan kon worden met het overschot aan
+NOx in onze bodems.  Elke plant kan dat immers,
+want ze groeien allemaal terwijl bijna alleen de
+vlinderbloemigen de voorbereiding doet, namelijk
+de vorming van NOx uit N₂.
+Peulvruchten staan erom bekend dat ze rond
+hun wortels een voedingsbodem bieden voor bacterieën
+die dat proces regelen voor hen en hun directe omgeving,
+en dan niet slempend zoals met kunstmest, maar in een
+mooi geleidelijk proces.
+
+Ook de opwerking naar ammoniak is een
+[bacterieel proces](https://duckduckgo.com/?q=ammonia+bacterial+cycle&t=ffab&atb=v214-1&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FHazel_Barton%2Fpublication%2F272651851%2Ffigure%2Fdownload%2Ffig2%2FAS%3A667785348784128%401536223842075%2FThe-degradation-of-urea-and-the-nitrogen-cycle-A-A-simplification-of-the-breakdown-of.ppm)
+en lijkt de omweg via eiwitten niet te hoeven doorlopen.
+Daar moeten we maar eens een promovendus op zetten!
+
+**Humaan.**
+Gegeven ammoniak moet je het nog omzetten in ureum.
+Daar is je lever bij uitstek op gemaakt, want ammoniak
+is giftig en wordt overal in ons lichaam gemaakt.  Voor
+de afbraak gebruiken we de
+[Krebs-Henseleit cyclus](https://en.wikipedia.org/wiki/Krebs-Henseleit_cycle);
+de complexiteit van dit proces is echter enorm, met
+meerdere stappen en vele hulpstoffen.  Interessant als
+richting om een proces op 37 ˚C te vinden, maar niet
+per sé gemakkelijk.  Ook daar moeten we maar eens een
+promovendus op zetten!
+
+
