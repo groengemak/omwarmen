@@ -50,7 +50,9 @@ af.  Het is een rustig proces, maar stinkt naar
 ammoniak en doordat veel uitspoelt krijg je de problemen
 van overbemesting, zoals onderdrukte wilde paddenstoelen
 en blauwalg in zwemwater.  Dit is het proces waar de
-Raad van State het "Streep door PAS" tegen nam.
+Raad van State het
+[Streep door PAS](https://www.raadvanstate.nl/@115651/pas-mag/)
+besluit tegen nam.
 
 ### Ureum naar waterstof
 
@@ -70,7 +72,7 @@ CO(NH₂)₂ + H₂O      -->  N₂ + CO₂ + 3 H₂
 
 Hier komt de stikstof vrij als N₂, het stikstofgas dat
 het grootste deel uitmaakt van de lucht die we ademen.
-In deze vorm is stikstof compleet onschadelijke.
+In deze vorm is stikstof compleet onschadelijk.
 
 Het produkt waterstof kan nu worden omgezet in elektrische
 energie met een brandstofcel.
