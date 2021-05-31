@@ -19,8 +19,8 @@ het in droge vorm stabiel kan worden bewaard.
 
 Er zijn meerdere processen die ureum afbreken.  Niet allemaal
 zijn ze even gunstig.  Doordat CO voorkomt zal bij de verbranding
-van elk molecuul CO₂ vrijkomen.  De verhouding waterstof is in
-verhouding dezelfde als van aardgas of methaangas, CH4.  Het
+van elk molecuul (CO of) CO₂ vrijkomen.  De verhouding waterstof is in
+verhouding dezelfde als van aardgas of methaangas, CH₄.  Het
 grote verschil zit hem in de afwerking van stikstof.
 
 ### Microbieel
