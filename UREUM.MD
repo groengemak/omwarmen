@@ -44,6 +44,14 @@ Hierbij komt de stikstof vrij als NO, ook wel benoemd
 als NOx wanneer het wordt besproken als
 gezondheidsschadelijke stof.
 
+Als ureum wordt gebruikt als meststof (of alternatief
+voor strooizout) dan speelt dit zich in enkele dagen
+af.  Het is een rustig proces, maar stinkt naar
+ammoniak en doordat veel uitspoelt krijg je de problemen
+van overbemesting, zoals onderdrukte wilde paddenstoelen
+en blauwalg in zwemwater.  Dit is het proces waar de
+Raad van State het "Streep door PAS" tegen nam.
+
 ### Ureum naar waterstof
 
 [Electrolyse van ureum opgelost in water](https://suttonfruit.com/pics/urea_electrolysis.pdf)
@@ -89,6 +97,12 @@ die hier gedaan wordt is wel efficiënter dan de
 gang via electrolyse naar een brandstofcel voor
 waterstof.
 
+De metingen tonen aan dat te hoge concentraties de
+reactie in de weg zitten; en dat extra stoffen in
+urine, zoals elektrolyten, de opbrengst van de
+brandstofcel verminderen (onduidelijk of dat dan
+gaat over totale opbrengst of alleen het vermogen).
+
 ### Warmte uit ureum
 
 Het is mogelijk om waterstof rechtstreeks om te
@@ -110,7 +124,7 @@ dus.  Het water komt vaak als stoom vrij, dus daar is ook nog de
 een HR-ketel, vooral ook als het bestemd is voor een vloerverwarming
 die niet verder stijgt dan 40 ˚C.
 
-Ureum is vergankelijk; geef het een paar dagen en het verandert in
+In water opgelost ureum is vergankelijk; geef het een paar dagen en het verandert in
 ammoniak, en daarna in NOx wat overbemesting tot gevolg heeft.  Het
 is in die zin ook in het belang van waterzuivering om urine op te
 vangen voor het verschaalt.  De verschaling treedt op een
