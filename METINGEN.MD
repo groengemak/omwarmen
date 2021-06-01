@@ -96,3 +96,12 @@
  * Tegen €0,11/kWh heeft dit €0,40/d gekost, de hele maand (30d) zal €11,99 hebben gekost
  * Ik heb steeds vaker profijt van invallend zonlicht, dat verklaart de lagere waarde
 
+**Mei 2021: Hele maand, relatief koud:**
+
+ * Metertotalen gaan van 25733 kWh naar 25899 kWh, dus gebruik 166 kWh
+ * Jaargemiddeld/12 is 96 kWh, dus extra gebruik is 70 kWh
+ * KNMI meldt 11,2 ˚C gemiddeld over heel mei (normaal zou dat 13,4 ˚C hebben moeten zijn)
+ * Binnen 18-19 ˚C dus overwon ik 7,3 ˚C gemiddeld
+ * Het "weerstandsnetwerk" naar buiten lekte dus 70 kWh / 31d / 7,3 ˚C = **0,309 kWh/˚C/d**
+ * Tegen €0,11/kWh heeft dit €0,25/d gekost, de hele maand (31d) heeft €7,70 gekost
+ * Zelfs achter wolken heeft de zon duidelijk meer kracht om het huis op te warmen
